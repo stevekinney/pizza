@@ -76,3 +76,9 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 
 ## San Diego, CA
 * [Pizzeria Luigi](http://www.pizzerialuigi.com/)
+* [Pizza Port](http://www.pizzaport.com)
+
+## Oakland, CA
+* [Hi-Life](http://www.hilifeoakland.com)
+* [Zachary's](http://zacharys.com/locations/oakland/)
+
