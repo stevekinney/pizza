@@ -9,6 +9,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Brooklyn, NY
 
 * [Luigi's Pizza](http://www.yelp.com/biz/luigi-pizzeria-brooklyn)
+* [Roberta's](http://www.robertaspizza.com/)
 
 ## Woodbridge, NJ
 
@@ -22,7 +23,6 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 
 * [Coalfire](http://coalfirechicago.com/menu/index.html)
 * [Piece](http://www.piecechicago.com/pizza.php)
-* [Roberta's](http://http://www.robertaspizza.com/)
 
 ## New York, NY
 
