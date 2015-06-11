@@ -44,3 +44,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Seattle, Washington
 
 * [Belltown Pizza](http://belltownpizza.net/)
+
+## Toronto, Canada
+
+* [Pizzeria Libretto](http://pizzerialibretto.com/)
