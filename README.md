@@ -5,6 +5,8 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Washington, DC
 
 * [Pete's New Haven Pizza](http://petesapizza.com/)
+* [2 Amys](http://2amys.tripod.com/)
+* [Comet Ping Pong](http://www.cometpingpong.com/)
 
 ## Hamilton, NJ
 
