@@ -33,6 +33,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Boston, MA / Brighton, MA
 
 * [Big Daddy's Pizza](http://bigdaddyspizza.biz/)
+* [Pizzeria Regina](http://www.pizzeriaregina.com/)
 
 ## Chicago, IL
 
