@@ -82,3 +82,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 * [Hi-Life](http://www.hilifeoakland.com)
 * [Zachary's](http://zacharys.com/locations/oakland/)
 
+## Santa Monica, CA
+ * [Stella Barra](http://www.stellabarra.com/]
+ * [NY&C](http://www.nyandcpizza.com/home.html)
+ 
