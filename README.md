@@ -24,6 +24,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 * [Paulie Gee's](http://pauliegee.com/)
 * [Roberta's](http://www.robertaspizza.com/)
 * [Saraghina](http://www.saraghinabrooklyn.com)
+* [My Little Pizzeria](http://www.yelp.com/biz/my-little-pizzeria-brooklyn)
 
 ## Woodbridge, NJ
 
@@ -46,6 +47,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 
 * [Adrienne's Pizza Bar](http://www.adriennespizzabarnyc.com/)
 * [John's of Bleeker St](http://www.johnsbrickovenpizza.com/)
+* [Prince Street Pizza](http://www.yelp.com/biz/prince-st-pizza-new-york)
 
 ## Staten Island, NY
 
