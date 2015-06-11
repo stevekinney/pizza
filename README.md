@@ -58,6 +58,10 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 * [In Riva](http://www.in-riva.com/images/menuDINNER.pdf)
 * [Nomad Pizza Co](http://www.nomadpizzaco.com/)
 
+## Pittsburgh, PA
+
+* [Aiello's Pizza](http://aiellospizza.com/)
+
 ## Onsala, Sweden
 
 * [Onsala Pizzeria](https://www.youtube.com/watch?v=ytXzO8_BMrQ)
@@ -72,15 +76,24 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 * [Bitondo's Pizzeria](https://plus.google.com/111316627016040776065/about?gl=ca&hl=en)
 
 ## Buffalo, NY
+
 * [Pizza By Molino's](http://www.pizzabymolinos.com/)
 
 ## San Diego, CA
+
 * [Pizzeria Luigi](http://www.pizzerialuigi.com/)
 * [Pizza Port](http://www.pizzaport.com)
 
 ## Oakland, CA
+
 * [Hi-Life](http://www.hilifeoakland.com)
 * [Zachary's](http://zacharys.com/locations/oakland/)
 
 ## Paris, France
+
 * [Rossini](http://www.yelp.com/biz/rossini-paris-3)
+
+## Santa Monica, CA
+
+* [Stella Barra](http://www.stellabarra.com/)
+* [NY&C](http://www.nyandcpizza.com/home.html)
