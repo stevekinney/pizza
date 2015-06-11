@@ -8,19 +8,17 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 
 ## Brooklyn, NY
 
-* [Not Ray's Pizza](http://www.notrayspizza.com/)
+* [Luigi's Pizza](http://www.yelp.com/biz/luigi-pizzeria-brooklyn)
 
 ## Woodbridge, NJ
 
 * [San Remo Pizza](http://www.sanremopizza.net/)
 
-## Boston, MA / Brighton. MA
+## Boston, MA / Brighton, MA
 
 * [Big Daddy's Pizza](http://bigdaddyspizza.biz/)
 
-##Chicago, IL
-
-There is better pizza than Chicago style deep dish.
+## Chicago, IL
 
 * [Coalfire](http://coalfirechicago.com/menu/index.html)
 * [Piece](http://www.piecechicago.com/pizza.php)
