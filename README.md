@@ -107,3 +107,8 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 * [Antico Pizza Napoletana](http://littleitalia.com/)
 * [Ammazza](http://ammazza.com/)
 * [Double Zero](http://www.doublezeroatl.com/)
+
+## Austin, TX
+
+* [Via 313](http://www.via313.com)
+* [Home Slice](https://www.homeslicepizza.com)
