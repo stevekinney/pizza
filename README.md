@@ -23,6 +23,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 * [Luigi's Pizza](http://www.yelp.com/biz/luigi-pizzeria-brooklyn)
 * [Paulie Gee's](http://pauliegee.com/)
 * [Roberta's](http://www.robertaspizza.com/)
+* [Saraghina](http://www.saraghinabrooklyn.com)
 
 ## Woodbridge, NJ
 
