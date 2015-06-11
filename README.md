@@ -71,3 +71,6 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 
 ## Buffalo, NY
 * [Pizza By Molino's](http://www.pizzabymolinos.com/)
+
+## San Diego, CA
+* [Pizzeria Luigi](http://www.pizzerialuigi.com/)
