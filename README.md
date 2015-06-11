@@ -48,3 +48,6 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Toronto, Canada
 
 * [Pizzeria Libretto](http://pizzerialibretto.com/)
+
+## Buffalo, NY
+* [Pizza By Molino's](http://www.pizzabymolinos.com/)
