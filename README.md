@@ -9,3 +9,9 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Brooklyn, NY
 
 * [Not Ray's Pizza](http://www.notrayspizza.com/)
+
+##Chicago, IL
+(there is better pizza than Chicago style deep dish)
+
+* [Coalfire](http://coalfirechicago.com/menu/index.html)
+* [Piece](http://www.piecechicago.com/pizza.php)
