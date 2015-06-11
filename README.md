@@ -2,6 +2,10 @@
 
 Where is the best pizza in a given city? This is a community project. Pull requests accepted and I will totally make you a collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
+## Hamilton, NJ
+
+* [DeLorenzo's Pizza](https://www.facebook.com/delorenzos?fref=ts)
+
 ## Hoboken, NJ
 
 * [Mario's Classic Pizza](http://mariosclassicpizza.com/)
@@ -55,7 +59,3 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 
 ## Buffalo, NY
 * [Pizza By Molino's](http://www.pizzabymolinos.com/)
-
-## Leuven, Belgium
-* [La Vecchia Napoli](http://www.lavecchianapoli.be)
-* [Pronto](https://plus.google.com/100388940239717823303/about?gl=be&hl=en)
