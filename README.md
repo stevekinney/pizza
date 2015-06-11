@@ -31,3 +31,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Staten Island, NY
 
 * [Joe and Pat's](http://www.yelp.com/biz/joe-and-pats-staten-island)
+
+## Onsala, Sweden
+
+* [Onsala Pizzeria](https://www.youtube.com/watch?v=ytXzO8_BMrQ)
