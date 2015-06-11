@@ -24,3 +24,12 @@ There is better pizza than Chicago style deep dish.
 
 * [Coalfire](http://coalfirechicago.com/menu/index.html)
 * [Piece](http://www.piecechicago.com/pizza.php)
+* [Roberta's](http://http://www.robertaspizza.com/)
+
+## New York, NY
+
+* [Adrienne's Pizza Bar](http://www.adriennespizzabarnyc.com/)
+
+## Staten Island, NY
+
+* [Joe and Pat's](http://www.yelp.com/biz/joe-and-pats-staten-island)
