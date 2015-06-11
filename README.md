@@ -17,3 +17,10 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Boston, MA / Brighton. MA
 
 * [Big Daddy's Pizza](http://bigdaddyspizza.biz/)
+
+##Chicago, IL
+
+There is better pizza than Chicago style deep dish.
+
+* [Coalfire](http://coalfirechicago.com/menu/index.html)
+* [Piece](http://www.piecechicago.com/pizza.php)
