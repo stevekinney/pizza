@@ -13,6 +13,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Brooklyn, NY
 
 * [Luigi's Pizza](http://www.yelp.com/biz/luigi-pizzeria-brooklyn)
+* [Paulie Gee's](http://pauliegee.com/)
 * [Roberta's](http://www.robertaspizza.com/)
 
 ## Woodbridge, NJ
@@ -35,6 +36,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## New York, NY
 
 * [Adrienne's Pizza Bar](http://www.adriennespizzabarnyc.com/)
+* [John's of Bleeker St](http://www.johnsbrickovenpizza.com/)
 
 ## Staten Island, NY
 
