@@ -82,3 +82,5 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 * [Hi-Life](http://www.hilifeoakland.com)
 * [Zachary's](http://zacharys.com/locations/oakland/)
 
+## Paris, France
+* [Rossini](http://www.yelp.com/biz/rossini-paris-3)
