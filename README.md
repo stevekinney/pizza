@@ -89,6 +89,12 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 * [Pizzeria Luigi](http://www.pizzerialuigi.com/)
 * [Pizza Port](http://www.pizzaport.com)
 
+## San Francisco, CA
+
+* [Golden Boy](http://www.goldenboypizza.com/)
+* [Little Star](http://www.littlestarpizza.com/)
+* [Una Pizza Napoletana](http://www.unapizza.com/)
+
 ## Oakland, CA
 
 * [Hi-Life](http://www.hilifeoakland.com)
