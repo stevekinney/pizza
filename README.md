@@ -112,3 +112,9 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 
 * [Via 313](http://www.via313.com)
 * [Home Slice](https://www.homeslicepizza.com)
+
+## Albuquerque, NM
+
+* [Farina](http://www.farinapizzeria.com/)
+* [Giovanni's](http://www.giovannispizzaalbuquerque.com/)
+* [Slice Parlor](http://www.sliceparlor.com/)
