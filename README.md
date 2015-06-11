@@ -31,3 +31,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Staten Island, NY
 
 * [Joe and Pat's](http://www.yelp.com/biz/joe-and-pats-staten-island)
+
+## Philadelphia, PA
+* [In Riva](http://www.in-riva.com/images/menuDINNER.pdf)
+* [Nomad Pizza Co](http://www.nomadpizzaco.com/)
