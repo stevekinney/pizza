@@ -24,6 +24,10 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 * [Coalfire](http://coalfirechicago.com/menu/index.html)
 * [Piece](http://www.piecechicago.com/pizza.php)
 
+## Rockford, IL
+
+* [Toni's Pizza](http://www.tonispizzaandpasta.com/)
+
 ## New York, NY
 
 * [Adrienne's Pizza Bar](http://www.adriennespizzabarnyc.com/)
