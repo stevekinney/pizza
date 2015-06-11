@@ -2,6 +2,10 @@
 
 Where is the best pizza in a given city? This is a community project. Pull requests accepted and I will totally make you a collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
+## Washington, DC
+
+* [Pete's New Haven Pizza](http://petesapizza.com/)
+
 ## Hamilton, NJ
 
 * [DeLorenzo's Pizza](https://www.facebook.com/delorenzos?fref=ts)
