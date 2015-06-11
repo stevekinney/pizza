@@ -101,3 +101,9 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 
 * [Stella Barra](http://www.stellabarra.com/)
 * [NY&C](http://www.nyandcpizza.com/home.html)
+
+## Atlanta, GA
+
+* [Antico Pizza Napoletana](http://littleitalia.com/)
+* [Ammazza](http://ammazza.com/)
+* [Double Zero](http://www.doublezeroatl.com/)
