@@ -51,3 +51,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 
 ## Buffalo, NY
 * [Pizza By Molino's](http://www.pizzabymolinos.com/)
+
+## Leuven, Belgium
+* [La Vecchia Napoli](http://www.lavecchianapoli.be)
+* [Pronto](https://plus.google.com/100388940239717823303/about?gl=be&hl=en)
