@@ -40,3 +40,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Onsala, Sweden
 
 * [Onsala Pizzeria](https://www.youtube.com/watch?v=ytXzO8_BMrQ)
+
+## Seattle, Washington
+
+* [Belltown Pizza](http://belltownpizza.net/)
