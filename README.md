@@ -14,6 +14,10 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 
 * [Mario's Classic Pizza](http://mariosclassicpizza.com/)
 
+## Jersey City, NJ
+
+* [Razza](http://www.razzanj.com/)
+
 ## Brooklyn, NY
 
 * [Luigi's Pizza](http://www.yelp.com/biz/luigi-pizzeria-brooklyn)
