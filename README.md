@@ -39,6 +39,10 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 * [Coalfire](http://coalfirechicago.com/menu/index.html)
 * [Piece](http://www.piecechicago.com/pizza.php)
 
+## Detroit, MI
+
+* [Supino Pizzeria](http://supinopizzeria.com/)
+
 ## Rockford, IL
 
 * [Toni's Pizza](http://www.tonispizzaandpasta.com/)
