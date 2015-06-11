@@ -9,6 +9,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Brooklyn, NY
 
 * [Not Ray's Pizza](http://www.notrayspizza.com/)
+* [Roberta's] (http://www.robertaspizza.com/)
 
 ## Woodbridge, NJ
 
@@ -24,7 +25,6 @@ There is better pizza than Chicago style deep dish.
 
 * [Coalfire](http://coalfirechicago.com/menu/index.html)
 * [Piece](http://www.piecechicago.com/pizza.php)
-* [Roberta's](http://http://www.robertaspizza.com/)
 
 ## New York, NY
 
