@@ -58,6 +58,10 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 * [In Riva](http://www.in-riva.com/images/menuDINNER.pdf)
 * [Nomad Pizza Co](http://www.nomadpizzaco.com/)
 
+## Pittsburgh, PA
+
+* [Aiello's Pizza](http://aiellospizza.com/)
+
 ## Onsala, Sweden
 
 * [Onsala Pizzeria](https://www.youtube.com/watch?v=ytXzO8_BMrQ)
