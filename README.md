@@ -82,7 +82,10 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 
 ## Seattle, Washington
 
+* [Via Tribunali](http://viatribunali.com/)
 * [Belltown Pizza](http://belltownpizza.net/)
+* [Serious Pie](http://seriouspieseattle.com/)
+* [Pagliacci Pizza](http://www.pagliacci.com/)
 
 ## Toronto, Canada
 
