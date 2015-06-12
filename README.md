@@ -51,6 +51,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Detroit, MI
 
 * [Supino Pizzeria](http://supinopizzeria.com/)
+* [Pie Sci](https://www.facebook.com/piescipizza)
 
 ## Rockford, IL
 
@@ -141,3 +142,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Denver, CO
 
 * [Lucky Pie](http://www.luckypiepizza.com/lodo/)
+
+## Eugene, OR
+
+* [Pizza Research Institute](http://www.pizzaresearchinstitute.com/)
