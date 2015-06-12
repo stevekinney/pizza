@@ -130,6 +130,8 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 
 ## Austin, TX
 
+* [Little Deli](http://www.littledeliandpizza.com/)
+* [East Side Pies](http://eastsidepies.com/)
 * [Via 313](http://www.via313.com)
 * [Home Slice](https://www.homeslicepizza.com)
 
