@@ -5,6 +5,8 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Washington, DC
 
 * [Pete's New Haven Pizza](http://petesapizza.com/)
+* [2 Amys](http://2amys.tripod.com/)
+* [Comet Ping Pong](http://www.cometpingpong.com/)
 
 ## Hamilton, NJ
 
@@ -33,11 +35,22 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Boston, MA / Brighton, MA
 
 * [Big Daddy's Pizza](http://bigdaddyspizza.biz/)
+* [Pizzeria Regina](http://www.pizzeriaregina.com/)
+
+## Manchester, NH
+
+* [Pizza Market](http://www.pizzamarket.net/)
+* [Jimmy's House of Pizza](http://www.yelp.com/biz/jimmys-house-of-pizza-manchester)
+* [Ollie's](http://www.yelp.com/biz/ollies-manchester)
 
 ## Chicago, IL
 
 * [Coalfire](http://coalfirechicago.com/menu/index.html)
 * [Piece](http://www.piecechicago.com/pizza.php)
+
+## Detroit, MI
+
+* [Supino Pizzeria](http://supinopizzeria.com/)
 
 ## Rockford, IL
 
@@ -84,6 +97,12 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 * [Pizzeria Luigi](http://www.pizzerialuigi.com/)
 * [Pizza Port](http://www.pizzaport.com)
 
+## San Francisco, CA
+
+* [Golden Boy](http://www.goldenboypizza.com/)
+* [Little Star](http://www.littlestarpizza.com/)
+* [Una Pizza Napoletana](http://www.unapizza.com/)
+
 ## Oakland, CA
 
 * [Hi-Life](http://www.hilifeoakland.com)
@@ -93,7 +112,38 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 
 * [Rossini](http://www.yelp.com/biz/rossini-paris-3)
 
+## Leuven, Belgium
+* [La Vecchia Napoli](http://www.lavecchianapoli.be)
+* [Pronto](https://plus.google.com/100388940239717823303/about?gl=be&hl=en)
+
 ## Santa Monica, CA
 
 * [Stella Barra](http://www.stellabarra.com/)
 * [NY&C](http://www.nyandcpizza.com/home.html)
+
+## Atlanta, GA
+
+* [Antico Pizza Napoletana](http://littleitalia.com/)
+* [Ammazza](http://ammazza.com/)
+* [Double Zero](http://www.doublezeroatl.com/)
+
+## Austin, TX
+
+* [Via 313](http://www.via313.com)
+* [Home Slice](https://www.homeslicepizza.com)
+
+## Albuquerque, NM
+
+* [Farina](http://www.farinapizzeria.com/)
+* [Giovanni's](http://www.giovannispizzaalbuquerque.com/)
+* [Slice Parlor](http://www.sliceparlor.com/)
+
+## Denver, CO
+
+* [Lucky Pie](http://www.luckypiepizza.com/lodo/)
+
+## Portland, OR
+
+* [Apizza Scholls](http://apizzascholls.com/)
+* [Pyro Pizza](http://pyropizzacart.com/)
+* [Ken's Artisan](http://kensartisan.com/)
