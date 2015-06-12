@@ -141,3 +141,10 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Denver, CO
 
 * [Lucky Pie](http://www.luckypiepizza.com/lodo/)
+
+# United Kingdom
+
+## London
+
+* [Princi](http://www.princi.com/)
+* [Pizza Pilgrims](http://pizzapilgrims.co.uk/)
