@@ -51,6 +51,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Detroit, MI
 
 * [Supino Pizzeria](http://supinopizzeria.com/)
+* [Pie Sci](https://www.facebook.com/piescipizza)
 
 ## Rockford, IL
 
@@ -147,3 +148,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 * [Apizza Scholls](http://apizzascholls.com/)
 * [Pyro Pizza](http://pyropizzacart.com/)
 * [Ken's Artisan](http://kensartisan.com/)
+
+## Eugene, OR
+
+* [Pizza Research Institute](http://www.pizzaresearchinstitute.com/)
