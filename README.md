@@ -152,3 +152,8 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Eugene, OR
 
 * [Pizza Research Institute](http://www.pizzaresearchinstitute.com/)
+
+## London, United Kingdom
+
+* [Princi](http://www.princi.com/)
+* [Pizza Pilgrims](http://pizzapilgrims.co.uk/)
