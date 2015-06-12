@@ -141,3 +141,9 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Denver, CO
 
 * [Lucky Pie](http://www.luckypiepizza.com/lodo/)
+
+## Portland, OR
+
+* [Apizza Scholls](http://apizzascholls.com/)
+* [Pyro Pizza](http://pyropizzacart.com/)
+* [Ken's Artisan](http://kensartisan.com/)
