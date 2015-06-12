@@ -163,3 +163,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Omaha, NE
 
 * [Pitch Pizzeria](http://www.pitchpizzeria.com)
+
+## Phoenix, AZ
+
+* [Pizzeria Bianco](http://www.pizzeriabianco.com/)
