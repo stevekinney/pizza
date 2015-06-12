@@ -37,6 +37,12 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 * [Big Daddy's Pizza](http://bigdaddyspizza.biz/)
 * [Pizzeria Regina](http://www.pizzeriaregina.com/)
 
+## Manchester, NH
+
+* [Pizza Market](http://www.pizzamarket.net/)
+* [Jimmy's House of Pizza](http://www.yelp.com/biz/jimmys-house-of-pizza-manchester)
+* [Ollie's](http://www.yelp.com/biz/ollies-manchester)
+
 ## Chicago, IL
 
 * [Coalfire](http://coalfirechicago.com/menu/index.html)
