@@ -157,3 +157,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 
 * [Princi](http://www.princi.com/)
 * [Pizza Pilgrims](http://pizzapilgrims.co.uk/)
+
+## Omaha, NE
+
+* [Pitch Pizzeria](http://www.pitchpizzeria.com)
