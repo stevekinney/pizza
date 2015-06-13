@@ -170,3 +170,9 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Phoenix, AZ
 
 * [Pizzeria Bianco](http://www.pizzeriabianco.com/)
+
+## Cannes, France
+
+* [La Pizza Cresci](http://maison-cresci.fr/en)
+
+
