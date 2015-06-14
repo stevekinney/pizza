@@ -168,6 +168,10 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 * [Princi](http://www.princi.com/)
 * [Pizza Pilgrims](http://pizzapilgrims.co.uk/)
 
+## Southampton, United Kingdom
+
+* [It's a Pizza Thing](https://www.facebook.com/apizzathing)
+
 ## Omaha, NE
 
 * [Pitch Pizzeria](http://www.pitchpizzeria.com)
