@@ -32,10 +32,10 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Woodbridge, NJ
 
 * [San Remo Pizza](http://www.sanremopizza.net/)
-* 
+
 ## New Haven, CT
 
-# [Bar] (http://www.barnightclub.com/)
+* [Bar] (http://www.barnightclub.com/)
 
 ## Boston, MA / Brighton, MA
 
