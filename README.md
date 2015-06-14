@@ -27,10 +27,15 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 * [Roberta's](http://www.robertaspizza.com/)
 * [Saraghina](http://www.saraghinabrooklyn.com)
 * [My Little Pizzeria](http://www.yelp.com/biz/my-little-pizzeria-brooklyn)
+* [Forcella] (http://forcellaeatery.com/williamsburg/)
 
 ## Woodbridge, NJ
 
 * [San Remo Pizza](http://www.sanremopizza.net/)
+* 
+## New Haven, CT
+
+# [Bar] (http://www.barnightclub.com/)
 
 ## Boston, MA / Brighton, MA
 
