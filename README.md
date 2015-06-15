@@ -36,6 +36,9 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## New Haven, CT
 
 * [Bar] (http://www.barnightclub.com/)
+* [Pepe's](http://pepespizzeria.com/)
+* [Sally's Apizza](http://www.sallysapizza.com/)
+* [Modern Apizza](http://www.modernapizza.com/)
 
 ## Boston, MA / Brighton, MA
 
@@ -183,5 +186,3 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Cannes, France
 
 * [La Pizza Cresci](http://maison-cresci.fr/en)
-
-
