@@ -95,6 +95,10 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 * [Serious Pie](http://seriouspieseattle.com/)
 * [Pagliacci Pizza](http://www.pagliacci.com/)
 
+## Whistler, Canada
+
+* [Creekbread](http://www.creekbread.com/)
+
 ## Toronto, Canada
 
 * [Pizzeria Libretto](http://pizzerialibretto.com/)
