@@ -186,3 +186,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Cannes, France
 
 * [La Pizza Cresci](http://maison-cresci.fr/en)
+
+## Dar Es Salaam, Tanzania
+
+* [The Waterfront Sunset Restaurant & Beach Bar](http://www.tripadvisor.com/Restaurant_Review-g293748-d2264564-Reviews-The_Waterfront_Sunset_Restaurant_Beach_Bar-Dar_es_Salaam_Dar_Es_Salaam_Region.html) 
