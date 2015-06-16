@@ -179,6 +179,10 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 
 * [It's a Pizza Thing](https://www.facebook.com/apizzathing)
 
+## Berlin, Germany
+
+* [Trattoria Toscana](http://www.toscana-tempelhof.de/)
+
 ## Omaha, NE
 
 * [Pitch Pizzeria](http://www.pitchpizzeria.com)
