@@ -42,10 +42,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 ## New Haven, CT
 
-* [Bar](http://www.barnightclub.com/)
 * [Pepe's](http://pepespizzeria.com/)
-* [Sally's Apizza](http://www.sallysapizza.com/)
 * [Modern Apizza](http://www.modernapizza.com/)
+* [Sally's Apizza](http://www.sallysapizza.com/)
+* [Bar](http://www.barnightclub.com/)
 
 
 ## Washington, DC
