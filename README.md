@@ -3,125 +3,143 @@
 Where is the best pizza in a given city? This is a community project. Pull requests accepted and I will totally make you a 
 collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
+### Arizona
 
-## Phoenix, AZ
+#### Phoenix
 
 * [Pizzeria Bianco](http://www.pizzeriabianco.com/)
 
+### California
 
-## Oakland, CA
+#### Oakland
 
 * [Hi-Life](http://www.hilifeoakland.com)
 * [Zachary's](http://zacharys.com/locations/oakland)
 
-## Palo Alto, CA
+#### Palo Alto
 
 * [Terun](http://terunpizza.com/) 
 
-## San Diego, CA
+#### San Diego
 
 * [Pizzeria Luigi](http://www.pizzerialuigi.com/)
 * [Pizza Port](http://www.pizzaport.com)
 
-## San Francisco, CA
+#### San Francisco
 
 * [Golden Boy](http://www.goldenboypizza.com/)
 * [Little Star](http://www.littlestarpizza.com/)
 * [Una Pizza Napoletana](http://www.unapizza.com/)
 
-## Santa Monica, CA
+#### Santa Monica
 
 * [Stella Barra](http://www.stellabarra.com/)
 * [NY&C](http://www.nyandcpizza.com/home.html)
 
+### Colorado
 
-## Denver, CO
+#### Denver
 
 * [Lucky Pie](http://www.luckypiepizza.com/lodo/)
 
+### Connecticut
 
-## New Haven, CT
+#### New Haven
 
 * [Pepe's](http://pepespizzeria.com/)
 * [Modern Apizza](http://www.modernapizza.com/)
 * [Sally's Apizza](http://www.sallysapizza.com/)
 * [Bar](http://www.barnightclub.com/)
 
-
-## Washington, DC
+### Washington, DC
 
 * [Pete's New Haven Pizza](http://petesapizza.com/)
 * [2 Amys](http://2amys.tripod.com/)
 * [Comet Ping Pong](http://www.cometpingpong.com/)
 
+### Georgia
 
-## Atlanta, GA
+#### Atlanta
 
 * [Antico Pizza Napoletana](http://littleitalia.com/)
 * [Ammazza](http://ammazza.com/)
 * [Double Zero](http://www.doublezeroatl.com/)
 
+### Illinois
 
-## Chicago, IL
+#### Chicago
 
 * [Coalfire](http://coalfirechicago.com/menu/index.html)
 * [Piece](http://www.piecechicago.com/pizza.php)
 * [Santullo's](http://www.santullos.com)
 
-## Rockford, IL
+#### Rockford
 
 * [Toni's Pizza](http://www.tonispizzaandpasta.com/)
 
+### Indiana
 
-## Boston, MA
+#### Indianapolis
+
+* [Napolese](http://napolesepizzeria.com)
+
+### Massachusetts
+
+#### Boston
 
 * [Big Daddy's Pizza](http://bigdaddyspizza.biz/)
 * [Pizzeria Regina](http://www.pizzeriaregina.com/)
 
+### Michigan
 
-## Detroit, MI
+#### Detroit
 
 * [Supino Pizzeria](http://supinopizzeria.com/)
 * [Pie Sci](https://www.facebook.com/piescipizza)
 
+### Nebraska
 
-## Omaha, NE
+#### Omaha
 
 * [Pitch Pizzeria](http://www.pitchpizzeria.com)
 
+### New Hampshire
 
-## Manchester, NH
+#### Manchester
 
 * [Pizza Market](http://www.pizzamarket.net/)
 * [Jimmy's House of Pizza](http://www.yelp.com/biz/jimmys-house-of-pizza-manchester)
 * [Ollie's](http://www.yelp.com/biz/ollies-manchester)
 
+### New Jersey
 
-## Hamilton, NJ
+#### Hamilton
 
 * [DeLorenzo's Pizza](https://www.facebook.com/delorenzos?fref=ts)
 
-## Hoboken, NJ
+#### Hoboken
 
 * [Mario's Classic Pizza](http://mariosclassicpizza.com/)
 
-## Jersey City, NJ
+#### Jersey City
 
 * [Razza](http://www.razzanj.com/)
 
-## Woodbridge, NJ
+#### Woodbridge
 
 * [San Remo Pizza](http://www.sanremopizza.net/)
 
+### New Mexico
 
-## Albuquerque, NM
+#### Albuquerque
 
 * [Farina](http://www.farinapizzeria.com/)
 * [Giovanni's](http://www.giovannispizzaalbuquerque.com/)
 * [Slice Parlor](http://www.sliceparlor.com/)
 
+### New York
 
-## Brooklyn, NY
+#### Brooklyn
 
 * [Luigi's Pizza](http://www.yelp.com/biz/luigi-pizzeria-brooklyn)
 * [Paulie Gee's](http://pauliegee.com/)
@@ -130,109 +148,119 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [My Little Pizzeria](http://www.yelp.com/biz/my-little-pizzeria-brooklyn)
 * [Forcella] (http://forcellaeatery.com/williamsburg/)
 
-## Buffalo, NY
+#### Buffalo
 
 * [Pizza By Molino's](http://www.pizzabymolinos.com/)
 
-## New York, NY
+#### NYC
 
 * [Adrienne's Pizza Bar](http://www.adriennespizzabarnyc.com/)
 * [John's of Bleeker St](http://www.johnsbrickovenpizza.com/)
 * [Prince Street Pizza](http://www.yelp.com/biz/prince-st-pizza-new-york)
 
-## Staten Island, NY
+#### Staten Island
 
 * [Joe and Pat's](http://www.yelp.com/biz/joe-and-pats-staten-island)
 
+### Oregon
 
-## Eugene, OR
+#### Eugene
 
 * [Pizza Research Institute](http://www.pizzaresearchinstitute.com/)
 
-## Portland, OR
+#### Portland
 
 * [Apizza Scholls](http://apizzascholls.com/)
 * [Pyro Pizza](http://pyropizzacart.com/)
 * [Ken's Artisan](http://kensartisan.com/)
 
+### Pennysylvania
 
-## Philadelphia, PA
+#### Philadelphia
 
 * [In Riva](http://www.in-riva.com/images/menuDINNER.pdf)
 * [Nomad Pizza Co](http://www.nomadpizzaco.com/)
 
-## Pittsburgh, PA
+#### Pittsburgh
 
 * [Aiello's Pizza](http://aiellospizza.com/)
 
+### Texas
 
-## Austin, TX
+#### Austin
 
 * [Little Deli](http://www.littledeliandpizza.com/)
 * [East Side Pies](http://eastsidepies.com/)
 * [Via 313](http://www.via313.com)
 * [Home Slice](https://www.homeslicepizza.com)
 
+### Washington
 
-## Seattle, WA
+#### Seattle
 
 * [Via Tribunali](http://viatribunali.com/)
 * [Belltown Pizza](http://belltownpizza.net/)
 * [Serious Pie](http://seriouspieseattle.com/)
 * [Pagliacci Pizza](http://www.pagliacci.com/)
 
-## Leuven, Belgium
+## International Pizza
+
+### Belgium
+
+#### Leuven
 * [La Vecchia Napoli](http://www.lavecchianapoli.be)
 * [Pronto](https://plus.google.com/100388940239717823303/about?gl=be&hl=en)
 
+### Canada
 
-## Toronto, Canada
+#### Toronto
 
 * [Pizzeria Libretto](http://pizzerialibretto.com/)
 * [Bitondo's Pizzeria](https://plus.google.com/111316627016040776065/about?gl=ca&hl=en)
 
-## Peterborough, Canada
+#### Peterborough
 
 * [The Night Kitchen](http://www.nightkitchen.ca/)
 
-## Whistler, Canada
+#### Whistler
 
 * [Creekbread](http://www.creekbread.com/)
 
+### France
 
-## Cannes, France
+#### Cannes
 
 * [La Pizza Cresci](http://maison-cresci.fr/en)
 
-## Paris, France
+#### Paris
 
 * [Rossini](http://www.yelp.com/biz/rossini-paris-3)
 
+### Germany
 
-## Berlin, Germany
+#### Berlin
 
 * [Trattoria Toscana](http://www.toscana-tempelhof.de/)
 
+### Sweden
 
-## Onsala, Sweden
+#### Onsala
 
 * [Onsala Pizzeria](https://www.youtube.com/watch?v=ytXzO8_BMrQ)
 
+### Tanzania
 
-## Dar Es Salaam, Tanzania
+#### Dar Es Salaam
 
 * [The Waterfront Sunset Restaurant & Beach Bar](http://www.tripadvisor.com/Restaurant_Review-g293748-d2264564-Reviews-The_Waterfront_Sunset_Restaurant_Beach_Bar-Dar_es_Salaam_Dar_Es_Salaam_Region.html) 
 
+### United Kingdom
 
-## London, United Kingdom
+#### London
 
 * [Princi](http://www.princi.com/)
 * [Pizza Pilgrims](http://pizzapilgrims.co.uk/)
 
-## Southampton, United Kingdom
+#### Southampton
 
 * [It's a Pizza Thing](https://www.facebook.com/apizzathing)
-
-## Indianapolis, Indiana
-
-* [Napolese](http://napolesepizzeria.com)
