@@ -84,6 +84,9 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Supino Pizzeria](http://supinopizzeria.com/)
 * [Pie Sci](https://www.facebook.com/piescipizza)
 
+## Saint Paul / Minneapolis, MN
+
+* [Punch Neapolitan Pizza](http://www.punchpizza.com/)
 
 ## Omaha, NE
 
