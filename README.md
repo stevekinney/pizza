@@ -66,6 +66,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Coalfire](http://coalfirechicago.com/menu/index.html)
 * [Piece](http://www.piecechicago.com/pizza.php)
+* [Santullo's](http://www.santullos.com)
 
 ## Rockford, IL
 
@@ -180,7 +181,6 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Serious Pie](http://seriouspieseattle.com/)
 * [Pagliacci Pizza](http://www.pagliacci.com/)
 
-
 ## Leuven, Belgium
 * [La Vecchia Napoli](http://www.lavecchianapoli.be)
 * [Pronto](https://plus.google.com/100388940239717823303/about?gl=be&hl=en)
@@ -232,3 +232,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 ## Southampton, United Kingdom
 
 * [It's a Pizza Thing](https://www.facebook.com/apizzathing)
+
+## Indianapolis, Indiana
+
+* [Napolese](http://napolesepizzeria.com)
