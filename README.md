@@ -113,6 +113,18 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 ### New Jersey
 
+#### Asbury Park
+
+* [Porta Pizza](http://pizzaporta.com/)
+
+#### Avenel
+
+* [Pizza Time](http://www.pizzatimenj.com/)
+
+#### Freehold
+
+* [Vinnie's Pizza](http://www.vinpizza.com/)
+
 #### Hamilton
 
 * [DeLorenzo's Pizza](https://www.facebook.com/delorenzos?fref=ts)
@@ -123,7 +135,12 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### Jersey City
 
+* [Porta Pizza](http://pizzaporta.com/)
 * [Razza](http://www.razzanj.com/)
+
+#### Neptune
+
+* [Pete & Elda's / Carmen's Pizzeria](http://www.peteandeldas.com/)
 
 #### Woodbridge
 
