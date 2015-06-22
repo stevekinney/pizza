@@ -76,3 +76,6 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 
 ## San Diego, CA
 * [Pizzeria Luigi](http://www.pizzerialuigi.com/)
+
+## Detroit, MI
+* [Buddy's Pizza](http://www.buddyspizza.com/)
