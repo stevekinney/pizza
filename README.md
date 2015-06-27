@@ -64,6 +64,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Antico Pizza Napoletana](http://littleitalia.com/)
 * [Ammazza](http://ammazza.com/)
 * [Double Zero](http://www.doublezeroatl.com/)
+* [St. Angelo's](http://www.stangelos.com/)
 
 ### Illinois
 
