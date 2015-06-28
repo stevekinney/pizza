@@ -103,6 +103,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Saint Paul / Minneapolis
 
 * [Punch Neapolitan Pizza](http://www.punchpizza.com/)
+* [Pizza Lucé](https://pizzaluce.com/)
 
 ### Nebraska
 
