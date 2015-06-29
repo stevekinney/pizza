@@ -216,6 +216,12 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Aiello's Pizza](http://aiellospizza.com/)
 
+### Tennessee
+
+#### Nashville
+
+* [Five Points Pizza](http://www.fivepointspizza.com/)
+
 ### Texas
 
 #### Austin
