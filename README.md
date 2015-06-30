@@ -302,6 +302,3 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Southampton
 
 * [It's a Pizza Thing](https://www.facebook.com/apizzathing)
-
-
-
