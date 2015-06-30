@@ -95,6 +95,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### Detroit
 
+* [Buddy's Pizza](http://www.buddyspizza.com/)
 * [Supino Pizzeria](http://supinopizzeria.com/)
 * [Pie Sci](https://www.facebook.com/piescipizza)
 
@@ -257,6 +258,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### Peterborough
 
+<<<<<<< HEAD
 * [The Night Kitchen](http://www.nightkitchen.ca/)
 
 #### Whistler
@@ -301,3 +303,5 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Southampton
 
 * [It's a Pizza Thing](https://www.facebook.com/apizzathing)
+
+
