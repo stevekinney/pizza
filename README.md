@@ -195,9 +195,21 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 ### North Carolina
 
+#### Chapel Hill/Carrboro
+
+* [Amante](http://amantepizza.com)
+
+#### Durham
+
+* [Pie Pushers](http://piepushers.com)
+* [Lilly's](http://lillyspizza.com)
+* [Pizzeria Toro](http://www.pizzeriatoro.com)
+
 #### Raleigh
 
- * [Lilly's Pizza](http://lillyspizza.com/)
+* [Lilly's](http://lillyspizza.com)
+* [Capital Creations](http://capitalcreations.com)
+* [Mellow Mushroom](http://mellowmushroom.com/store/raleigh)
 
 ### Oregon
 
