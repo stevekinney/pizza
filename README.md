@@ -246,6 +246,13 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Serious Pie](http://seriouspieseattle.com/)
 * [Pagliacci Pizza](http://www.pagliacci.com/)
 
+### Wisconsin
+
+#### Madison
+
+* [Grampa's Pizzeria](http://grampaspizzeria.com/)
+* [Salvatore's Tomato Pies](http://salvatorestomatopies.com/)
+
 ## International Pizza
 
 ### Belgium
