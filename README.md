@@ -56,6 +56,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Pete's New Haven Pizza](http://petesapizza.com/)
 * [2 Amys](http://2amys.tripod.com/)
 * [Comet Ping Pong](http://www.cometpingpong.com/)
+* [Matchbox Pizza](http://www.matchboxrestaurants.com/)
 
 ### Georgia
 
