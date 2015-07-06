@@ -193,6 +193,12 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Joe and Pat's](http://www.yelp.com/biz/joe-and-pats-staten-island)
 
+### North Carolina
+
+#### Raleigh
+
+ * [Lilly's Pizza](http://lillyspizza.com/)
+
 ### Oregon
 
 #### Eugene
