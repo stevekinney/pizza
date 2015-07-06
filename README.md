@@ -251,6 +251,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Madison
 
 * [Grampa's Pizzeria](http://grampaspizzeria.com/)
+* [La Fortuna](http://www.lafortunapizza.com/)
 * [Salvatore's Tomato Pies](http://salvatorestomatopies.com/)
 
 ## International Pizza
