@@ -112,6 +112,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Joe Boccardi's Ristorante](http://www.joeboccardis.com/)
 
+#### Columbia
+
+* [Shakespeare's Pizza](http://shakespeares.com/)
+
 ### Nebraska
 
 #### Omaha
