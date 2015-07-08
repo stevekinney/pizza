@@ -108,13 +108,13 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 ### Missouri
 
-#### St. Louis
-
-* [Joe Boccardi's Ristorante](http://www.joeboccardis.com/)
-
 #### Columbia
 
 * [Shakespeare's Pizza](http://shakespeares.com/)
+
+#### St. Louis
+
+* [Joe Boccardi's Ristorante](http://www.joeboccardis.com/)
 
 ### Nebraska
 
