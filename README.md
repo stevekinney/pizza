@@ -203,6 +203,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Chapel Hill/Carrboro
 
 * [Amante](http://amantepizza.com)
+* [Alfredo's Pizza Villa](http://www.alfredospizzanc.com/)
 
 #### Durham
 
