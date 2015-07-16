@@ -51,7 +51,9 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Sally's Apizza](http://www.sallysapizza.com/)
 * [Bar](http://www.barnightclub.com/)
 
-### Washington, DC
+### District of Columbia
+
+#### Washington
 
 * [Pete's New Haven Pizza](http://petesapizza.com/)
 * [2 Amys](http://2amys.tripod.com/)
