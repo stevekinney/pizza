@@ -117,6 +117,8 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### St. Louis
 
 * [Joe Boccardi's Ristorante](http://www.joeboccardis.com/)
+* [Pi Pizzeria](http://pi-pizza.com)
+* [Dewey's Pizza](http://www.deweyspizza.com)
 
 ### Nebraska
 
