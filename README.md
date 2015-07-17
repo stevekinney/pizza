@@ -117,6 +117,8 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Joe Boccardi's Ristorante](http://www.joeboccardis.com/)
 * [Pi Pizzeria](http://pi-pizza.com)
 * [Dewey's Pizza](http://www.deweyspizza.com)
+* [Imo's Pizza](http://imospizza.com/)
+* [Randolfi's](https://twitter.com/randolfisstl)
 
 ### Nebraska
 
