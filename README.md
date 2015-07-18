@@ -233,7 +233,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Pyro Pizza](http://pyropizzacart.com/)
 * [Ken's Artisan](http://kensartisan.com/)
 
-### Pennysylvania
+### Pennsylvania
 
 #### Philadelphia
 
@@ -243,6 +243,11 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Pittsburgh
 
 * [Aiello's Pizza](http://aiellospizza.com/)
+
+#### Pottsville
+
+* [Roma Pizza](http://www.romapizzapottsville.com/)
+* [Palermo Pizza & Restaurant](http://palermopizzarestaurant.com/)
 
 ### Tennessee
 
