@@ -28,17 +28,17 @@ pizza_arr = []
 
 pizzerias.each { |pizzeria| puts
   pizzaeria_obj = {
-    :type => "Feature",
-    :properties => {
-      :name => pizzeria.text,
+    "type" => "Feature",
+    "properties" => {
+      "name" => pizzeria.text,
       # :website => pizzeria.child['href'],
       # "marker-size" => "large",
       "marker-color" => "ffff00",
       "maker-symbol" => "restaurant",
     },
-    :geometry => {
-      :type => "Point",
-      :coordinates => [105.1667, 39.9333]
+    "geometry" => {
+      "type" => "Point",
+      "coordinates" => [105.1667, 39.9333]
     }
       # :stroke => 224,
       # "stroke-opacity" => 0.5,
@@ -53,6 +53,6 @@ binding.pry
 
 # end
 
-File.open("./map2.json","a+") do |f|
+File.open("./map2.geojson","a+") do |f|
   f.write(pizza_arr.to_json)
 end
