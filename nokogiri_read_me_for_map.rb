@@ -65,14 +65,14 @@ pizza_hash["features"] << pizzeria_obj
 
 binding.pry
 
-pizza_hash["features"].each do |x|
-  cities.each do |city|
-    if city.next_sibling.next_sibling.text.chomp.eql?(x["properties"]["Pizzeria"])
-      x["properties"]["City"] = city.text.chomp
-    end
-  end
-end
+# pizza_hash["features"].each do |x|
+#   cities.each do |city|
+#     if city.next_sibling.next_sibling.text.chomp.eql?(x["properties"]["Pizzeria"])
+#       x["properties"]["City"] = city.text.chomp
+#     end
+#   end
+# end
 
-File.open("./map5.json","a+") do |f|
+File.open("./map8.json","a+") do |f|
   f.write(pizza_hash.to_json)
 end
