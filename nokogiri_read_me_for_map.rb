@@ -43,18 +43,18 @@ pizzerias.each { |pizzeria| puts
     "type" => "Feature",
     "properties" => {
       "name" => pizzeria.text,
-      # :website => pizzeria.child['href'],
-      # "marker-size" => "large",
+      "website" => pizzeria.child['href'],
+      "marker-size" => "medium",
       "marker-color" => "ffff00",
-      "maker-symbol" => "restaurant",
+      "marker-symbol" => "restaurant",
+      "stroke" => 224,
+      "stroke-opacity" => 0.5,
+      "stroke-width" => 8.0,
     },
     "geometry" => {
       "type" => "Point",
-      "coordinates" => [39.9333, -105.1667]
+      "coordinates" => [-105.1667, 39.9333]
     }
-      # :stroke => 224,
-      # "stroke-opacity" => 0.5,
-      # "stroke-width" => 8.0,
   }
 pizza_arr.first["features"] << pizzaeria_obj
 }
