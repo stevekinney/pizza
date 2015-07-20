@@ -26,9 +26,7 @@ pizza_hash =
 # state: states.each { |state| puts state.text.chomp }
 # city: cities.each { |city| puts city.text.chomp }
 
-# pizzeria_name:
-# pizzerias.each { |pizzeria| puts pizzeria.text.chomp }
-
+# pizzeria_name: pizzerias.each { |pizzeria| puts pizzeria.text.chomp }
 # website: pizzerias.each { |pizzeria| puts pizzeria.child['href'].chomp }
 
 # this finds pizzerias in given city:
@@ -38,19 +36,15 @@ pizza_hash =
 # this lists pizzaria under cooresponding city:
 # cities.each { |city| puts "#{city.text.chomp}: #{city.next_sibling.next_sibling.text.chomp}" }
 
-
-
-# pizzerias.each { |pizzeria| puts
-
-cities.each { |city|
+pizzerias.each { |pizzeria| puts
 
   pizzeria_obj = {
     "type" => "Feature",
     "properties" => {
-      "City" => city.text.chomp,
-      "Pizzeria" => city.next_sibling.next_sibling.text.chomp,
-      # "Pizzeria" => pizzeria.text.chomp,
-      # "website" => pizzeria.child['href'].chomp,
+      "City" => nil,
+      #"Pizzeria" => city.next_sibling.next_sibling.text.chomp,
+      "Pizzeria" => pizzeria.text.chomp,
+      "website" => pizzeria.child['href'].chomp,
       "marker-size" => "medium",
       "marker-color" => "ffff00",
       "marker-symbol" => "restaurant",
@@ -66,9 +60,18 @@ cities.each { |city|
 pizza_hash["features"] << pizzeria_obj
 }
 
-# pizza_arr.each { |pizzeria| find_by(pizzeria["properties"]["Pizzeria"] = }
+
+# pizza_hash["properties"]["Pizzeria"] =
 
 binding.pry
+
+cities.each do |city|
+  pizza_hash["features"].each do |x|
+    if city.next_sibling.next_sibling.text.chomp.eql?(x["properties"]["Pizzeria"])
+      x["properties"]["City"] = city.text.chomp
+    end
+  end
+end
 
 File.open("./map5.geojson","a+") do |f|
   f.write(pizza_hash.to_json)
