@@ -43,8 +43,8 @@ pizzerias.each { |pizzeria| puts
       # :stroke => 224,
       # "stroke-opacity" => 0.5,
       # "stroke-width" => 8.0,
-  }
-pizza_arr << pizzaeria_obj.to_json
+  },
+pizza_arr << pizzaeria_obj
 }
 binding.pry
 
@@ -53,6 +53,6 @@ binding.pry
 
 # end
 
-File.open("./map6.geojson","a+") do |f|
-  f.write(pizza_arr)
+File.open("./map.json","a+") do |f|
+  f.write(pizza_arr.to_json)
 end
