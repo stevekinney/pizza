@@ -70,6 +70,6 @@ pizza_hash["features"] << pizzeria_obj
 
 binding.pry
 
-File.open("./map5.json","a+") do |f|
+File.open("./map5.geojson","a+") do |f|
   f.write(pizza_hash.to_json)
 end
