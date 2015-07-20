@@ -29,20 +29,20 @@ pizza_arr = []
 pizzerias.each { |pizzeria| puts
   pizzaeria_obj = {
     :type => "Feature",
+    :properties => {
+      :name => pizzeria.text,
+      # :website => pizzeria.child['href'],
+      # "marker-size" => "large",
+      "marker-color" => "ffff00",
+      "maker-symbol" => "restaurant",
+    },
     :geometry => {
       :type => "Point",
       :coordinates => [105.1667, 39.9333]
-    },
-    :properties => {
-      :name => pizzeria.text,
-      :website => pizzeria.child['href'],
-      "marker-size" => "large",
-      "marker-color" => "ffff00",
-      "maker-symbol" => "restaurant",
+    }
       # :stroke => 224,
       # "stroke-opacity" => 0.5,
       # "stroke-width" => 8.0,
-    }
   }
 pizza_arr << pizzaeria_obj
 }
