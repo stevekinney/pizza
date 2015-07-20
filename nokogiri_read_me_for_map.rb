@@ -9,7 +9,19 @@ pizza  = Nokogiri::HTML(html)
 states = pizza.css('div#readme h3')
 cities = pizza.css('div#readme h4')
 pizzerias = pizza.css('div#readme li')
-pizza_arr = []
+pizza_arr = [
+  {
+    "type" => "FeatureCollection",
+    "crs" => {
+      "type" => "name",
+      "properties" => {
+        "name" => "urn:ogc:def:crs:OGC:1.3:CRS84"
+      }
+    },
+    "features" => [
+    ]
+  }
+]
 
 # state: states.each { |state| puts state.text.chomp }
 # city: cities.each { |city| puts city.text.chomp }
@@ -38,13 +50,13 @@ pizzerias.each { |pizzeria| puts
     },
     "geometry" => {
       "type" => "Point",
-      "coordinates" => [105.1667, 39.9333]
+      "coordinates" => [39.9333, 105.1667]
     }
       # :stroke => 224,
       # "stroke-opacity" => 0.5,
       # "stroke-width" => 8.0,
   }
-pizza_arr << pizzaeria_obj
+pizza_arr.first["features"] << pizzaeria_obj
 }
 binding.pry
 
@@ -53,6 +65,6 @@ binding.pry
 
 # end
 
-File.open("./map.geojson","a+") do |f|
+File.open("./map.json","a+") do |f|
   f.write(pizza_arr.to_json)
 end
