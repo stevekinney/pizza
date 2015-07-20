@@ -53,6 +53,6 @@ binding.pry
 
 # end
 
-File.open("./map2.geojson","a+") do |f|
+File.open("./map6.geojson","a+") do |f|
   f.write(pizza_arr.to_json)
 end
