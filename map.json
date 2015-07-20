@@ -7,12 +7,34 @@
     }
   },
   "features": [
-    {"type":"Feature",
-    "properties":{
-      "name":"Pizzeria Bianco",
-      "marker-color":"ffff00",
-      "maker-symbol":"restaurant"
+    {
+      "type":"Feature",
+      "properties":{
+        "name":"Pizzeria Bianco",
+        "marker-color":"ffff00",
+        "maker-symbol":"restaurant"
       },
-    "geometry":{
-      "type":"Point",
-      "coordinates":[105.1667,39.9333]}}]
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          105.1667,
+          39.9333
+        ]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "name":"Pizzeria Bianco",
+        "marker-color":"ffff00",
+        "maker-symbol":"restaurant"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          39.9333,
+          105.1667
+        ]
+      }
+    }
+  ]
