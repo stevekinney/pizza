@@ -39,9 +39,9 @@ pizzerias.each { |pizzeria| puts
       "marker-size" => "large",
       "marker-color" => "ffff00",
       "maker-symbol" => "restaurant",
-      :stroke => 224,
-      "stroke-opacity" => 0.5,
-      "stroke-width" => 8.0,
+      # :stroke => 224,
+      # "stroke-opacity" => 0.5,
+      # "stroke-width" => 8.0,
     }
   }
 pizza_arr << pizzaeria_obj
