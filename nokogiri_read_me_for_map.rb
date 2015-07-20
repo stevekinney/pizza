@@ -9,19 +9,19 @@ pizza  = Nokogiri::HTML(html)
 states = pizza.css('div#readme h3')
 cities = pizza.css('div#readme h4')
 pizzerias = pizza.css('div#readme li')
-pizza_arr = [
-  {
-    "type" => "FeatureCollection",
-    "crs" => {
-      "type" => "name",
-      "properties" => {
-        "name" => "urn:ogc:def:crs:OGC:1.3:CRS84"
-      }
-    },
-    "features" => [
-    ]
-  }
-]
+pizza_hash =
+{
+  "type" => "FeatureCollection",
+  "crs" => {
+    "type" => "name",
+    "properties" => {
+      "name" => "Turing's Favorite Pizza Pies"
+    }
+  },
+  "features" => [
+  ]
+}
+
 
 # state: states.each { |state| puts state.text.chomp }
 # city: cities.each { |city| puts city.text.chomp }
@@ -31,40 +31,45 @@ pizza_arr = [
 
 # website: pizzerias.each { |pizzeria| puts pizzeria.child['href'].chomp }
 
-# this finds pizzarias in given city:
+# this finds pizzerias in given city:
 # cities.each { |city| puts city.next_sibling.next_sibling.text.chomp }
 # cities.each { |city| puts city.next_sibling.next_sibling.text.chomp }
 
 # this lists pizzaria under cooresponding city:
 # cities.each { |city| puts "#{city.text.chomp}: #{city.next_sibling.next_sibling.text.chomp}" }
 
-pizzerias.each { |pizzeria| puts
-  pizzaeria_obj = {
+
+
+# pizzerias.each { |pizzeria| puts
+
+cities.each { |city|
+
+  pizzeria_obj = {
     "type" => "Feature",
     "properties" => {
-      "name" => pizzeria.text,
-      "website" => pizzeria.child['href'],
+      "City" => city.text.chomp,
+      "Pizzeria" => city.next_sibling.next_sibling.text.chomp,
+      # "Pizzeria" => pizzeria.text.chomp,
+      # "website" => pizzeria.child['href'].chomp,
       "marker-size" => "medium",
       "marker-color" => "ffff00",
       "marker-symbol" => "restaurant",
-      "stroke" => 224,
-      "stroke-opacity" => 0.5,
-      "stroke-width" => 8.0,
+      # "stroke" => 224,
+      # "stroke-opacity" => 0.5,
+      # "stroke-width" => 8.0,
     },
     "geometry" => {
       "type" => "Point",
       "coordinates" => [-105.1667, 39.9333]
     }
   }
-pizza_arr.first["features"] << pizzaeria_obj
+pizza_hash["features"] << pizzeria_obj
 }
+
+# pizza_arr.each { |pizzeria| find_by(pizzeria["properties"]["Pizzeria"] = }
+
 binding.pry
 
-# redis_key =
-# redis_value =  pizzaeria_obj
-
-# end
-
-File.open("./map.json","a+") do |f|
-  f.write(pizza_arr.first.to_json)
+File.open("./map5.json","a+") do |f|
+  f.write(pizza_hash.to_json)
 end
