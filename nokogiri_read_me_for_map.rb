@@ -50,7 +50,7 @@ pizzerias.each { |pizzeria| puts
     },
     "geometry" => {
       "type" => "Point",
-      "coordinates" => [39.9333, 105.1667]
+      "coordinates" => [39.9333, -105.1667]
     }
       # :stroke => 224,
       # "stroke-opacity" => 0.5,
@@ -65,6 +65,6 @@ binding.pry
 
 # end
 
-File.open("./map.json","a+") do |f|
-  f.write(pizza_arr.to_json)
+File.open("./map.geojson","a+") do |f|
+  f.write(pizza_arr.first.to_json)
 end
