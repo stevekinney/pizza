@@ -2,26 +2,29 @@ require 'nokogiri'
 require 'open-uri'
 require 'pry'
 require 'json'
+require 'geocoder'
 
-html = open('https://github.com/stevekinney/pizza/blob/master/README.md')
+# html = open('https://github.com/stevekinney/pizza/blob/master/README.md')
+html = open('https://github.com/cluhring/pizza/blob/master/README.md')
+
 pizza  = Nokogiri::HTML(html)
 
 states = pizza.css('div#readme h3')
 cities = pizza.css('div#readme h4')
 pizzerias = pizza.css('div#readme li')
-pizza_hash =
+
+pizzeria_hash =
 {
   "type" => "FeatureCollection",
   "crs" => {
     "type" => "name",
     "properties" => {
-      "name" => "Turing's Favorite Pizza Pies"
+      "name" => "urn:ogc:def:crs:OGC:1.3:CRS84"
     }
   },
   "features" => [
   ]
 }
-
 
 # state: states.each { |state| puts state.text.chomp }
 # city: cities.each { |city| puts city.text.chomp }
@@ -31,18 +34,15 @@ pizza_hash =
 
 # this finds pizzerias in given city:
 # cities.each { |city| puts city.next_sibling.next_sibling.text.chomp }
-# cities.each { |city| puts city.next_sibling.next_sibling.text.chomp }
 
 # this lists pizzaria under cooresponding city:
 # cities.each { |city| puts "#{city.text.chomp}: #{city.next_sibling.next_sibling.text.chomp}" }
 
-pizzerias.each { |pizzeria| puts
-
+pizzerias.each { |pizzeria|
   pizzeria_obj = {
     "type" => "Feature",
     "properties" => {
       "City" => nil,
-      #"Pizzeria" => city.next_sibling.next_sibling.text.chomp,
       "Pizzeria" => pizzeria.text.chomp,
       "website" => pizzeria.child['href'].chomp,
       "marker-size" => "medium",
@@ -54,25 +54,25 @@ pizzerias.each { |pizzeria| puts
     },
     "geometry" => {
       "type" => "Point",
-      "coordinates" => [-105.1667, 39.9333]
+      "coordinates" => nil
     }
   }
-pizza_hash["features"] << pizzeria_obj
+pizzeria_hash["features"] << pizzeria_obj
 }
 
+pizzeria_hash["features"].each do |x|
+  cities.each do |city|
+    pizzeria1 = city.next_sibling.next_sibling.text.downcase.delete("\n").gsub(/[^a-z]/, "")
+    pizzeria2 = x["properties"]["Pizzeria"].downcase.delete("\n").gsub(/[^a-z]/, "")
+    if pizzeria1.include?(pizzeria2)
+      x["properties"]["City"] = city.text.chomp
+      geo_result = Geocoder.search(city.text)
+      x["geometry"]["coordinates"] = [geo_result.first.longitude + (rand(1..9) * 10**-3), geo_result.first.latitude + (rand(1..9) * 10**-3)]
+      sleep 0.2
+    end
+  end
+end
 
-# pizza_hash["properties"]["Pizzeria"] =
-
-binding.pry
-
-# pizza_hash["features"].each do |x|
-#   cities.each do |city|
-#     if city.next_sibling.next_sibling.text.chomp.eql?(x["properties"]["Pizzeria"])
-#       x["properties"]["City"] = city.text.chomp
-#     end
-#   end
-# end
-
-File.open("./map8.json","a+") do |f|
-  f.write(pizza_hash.to_json)
+File.open("./pizza_map.geojson","a+") do |f|
+  f.write(pizzeria_hash.to_json)
 end

@@ -110,7 +110,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 ### Missouri
 
-#### Columbia
+#### Columbia, MO
 
 * [Shakespeare's Pizza](http://shakespeares.com/)
 
