@@ -79,7 +79,7 @@ pizza_hash["features"].map { |pizza_ob| pizza_ob["properties"]["Pizzeria"].downc
     if city.next_sibling.next_sibling.text.downcase.delete("\n").gsub(/[^a-z]/, "").include?(name)
     pizza_hash["features"][p_o]["properties"]["City"] = city.text
     end
-    binding.pry
+    # binding.pry
     p_o += 1
   end
 end
