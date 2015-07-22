@@ -31,10 +31,9 @@ pizza_hash =
 
 # this finds pizzerias in given city:
 # cities.each { |city| puts city.next_sibling.next_sibling.text.chomp }
-# cities.each { |city| puts city.next_sibling.next_sibling.text.chomp }
 
 # this lists pizzaria under cooresponding city:
-# cities.each { |city| puts "#{city.text.chomp}: #{city.next_sibling.next_sibling.text.chomp}" }
+cities.each { |city| puts "#{city.text.chomp}: #{city.next_sibling.next_sibling.text.chomp}" }
 
 pizzerias.each { |pizzeria| puts
 
@@ -63,18 +62,28 @@ pizza_hash["features"] << pizzeria_obj
 
 # pizza_hash["properties"]["Pizzeria"] =
 
+# pizza_hash["features"].each do |x|
+#   cities.each do |city|
+#     pizzeria1 = city.next_sibling.next_sibling.text.downcase.delete("\n").gsub(/[^a-z]/, "")
+#     pizzeria2 = x["properties"]["Pizzeria"].downcase.delete("\n").gsub(/[^a-z]/, "")
+#     # binding.pry
+#     if pizzeria1.eql?(pizzeria2)
+#       x["properties"]["City"] = city.text.chomp
+#     end
+#   end
+# end
 
-pizza_hash["features"].each do |x|
+pizza_hash["features"].map { |pizza_ob| pizza_ob["properties"]["Pizzeria"].downcase.delete("\n").gsub(/[^a-z]/, "") }.each do |name|
+  p_o = 0
   cities.each do |city|
-    city1 = city.next_sibling.next_sibling.text.downcase.gsub('/n', '')
-    city2 = x["properties"]["Pizzeria"].downcase
-      # binding.pry
-    if city1.eql?(city2)
-      x["properties"]["City"] = city.text.chomp
+    if city.next_sibling.next_sibling.text.downcase.delete("\n").gsub(/[^a-z]/, "").include?(name)
+    pizza_hash["features"][p_o]["properties"]["City"] = city.text
     end
+    binding.pry
+    p_o += 1
   end
 end
 
-File.open("./pizz_map.json","a+") do |f|
+File.open("./pizza_map.json","a+") do |f|
   f.write(pizza_hash.to_json)
 end
