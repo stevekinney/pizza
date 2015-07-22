@@ -30,6 +30,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Golden Boy](http://www.goldenboypizza.com/)
 * [Little Star](http://www.littlestarpizza.com/)
 * [Una Pizza Napoletana](http://www.unapizza.com/)
+* [Tony’s Pizza Napoletana](http://tonyspizzanapoletana.com/)
 
 #### Santa Monica
 
