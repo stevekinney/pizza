@@ -16,13 +16,12 @@ pizza_hash =
   "crs" => {
     "type" => "name",
     "properties" => {
-      "name" => "Turing's Favorite Pizza Pies"
+      "name" => "urn:ogc:def:crs:OGC:1.3:CRS84"
     }
   },
   "features" => [
   ]
 }
-
 
 # state: states.each { |state| puts state.text.chomp }
 # city: cities.each { |city| puts city.text.chomp }
@@ -63,32 +62,32 @@ pizza_hash["features"] << pizzeria_obj
 
 # pizza_hash["properties"]["Pizzeria"] =
 
-# pizza_hash["features"].each do |x|
+pizza_hash["features"].each do |x|
+  cities.each do |city|
+    pizzeria1 = city.next_sibling.next_sibling.text.downcase.delete("\n").gsub(/[^a-z]/, "")
+    pizzeria2 = x["properties"]["Pizzeria"].downcase.delete("\n").gsub(/[^a-z]/, "")
+    # binding.pry
+    if pizzeria1.include?(pizzeria2)
+      x["properties"]["City"] = city.text.chomp
+      result = Geocoder.search(city.text)
+      x["geometry"]["coordinates"] = [result.first.longitude, result.first.latitude]
+      sleep 0.2
+    end
+  end
+end
+
+# pizza_hash["features"].map { |pizza_ob| pizza_ob["properties"]["Pizzeria"].downcase.delete("\n").gsub(/[^a-z]/, "") }.each do |pizzeria|
 #   cities.each do |city|
-#     pizzeria1 = city.next_sibling.next_sibling.text.downcase.delete("\n").gsub(/[^a-z]/, "")
-#     pizzeria2 = x["properties"]["Pizzeria"].downcase.delete("\n").gsub(/[^a-z]/, "")
-#     # binding.pry
-#     if pizzeria1.eql?(pizzeria2)
-#       x["properties"]["City"] = city.text.chomp
+#     city_pizzerias = city.next_sibling.next_sibling.text.downcase.delete("\n").gsub(/[^a-z]/, "")
+#     if city_pizzerias.include?(pizzeria)
+#       pizza_ob["properties"]["City"] = city.text
+#       require 'pry' ; binding.pry
 #     end
 #   end
 # end
 
-pizza_hash["features"].map { |pizza_ob| pizza_ob["properties"]["Pizzeria"].downcase.delete("\n").gsub(/[^a-z]/, "") }.each do |name|
-  p_o = 0
-  cities.each do |city|
-    if city.next_sibling.next_sibling.text.downcase.delete("\n").gsub(/[^a-z]/, "").include?(name)
-      pizza_hash["features"][p_o]["properties"]["City"] = city.text
-      result = Geocoder.search(city.text)
-      pizza_hash["features"][p_o]["geometry"]["coordinates"] = [result.first.longitude, result.first.latitude]
-      sleep 1
-    end
-    p_o += 1
-  end
-end
-
 # Geocoder.search("1 Twins Way, Minneapolis")
 
-File.open("./pizza_map.geojson","a+") do |f|
+File.open("./pizza_map1.geojson","a+") do |f|
   f.write(pizza_hash.to_json)
 end
