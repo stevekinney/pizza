@@ -67,7 +67,7 @@ pizzeria_hash["features"].each do |x|
     if pizzeria1.include?(pizzeria2)
       x["properties"]["City"] = city.text.chomp
       geo_result = Geocoder.search(city.text)
-      x["geometry"]["coordinates"] = [geo_result.first.longitude + (rand(1..9) * 10**-5), geo_result.first.latitude + (rand(1..9) * 10**-5)]
+      x["geometry"]["coordinates"] = [geo_result.first.longitude + (rand(1..9) * 10**-3), geo_result.first.latitude + (rand(1..9) * 10**-3)]
       sleep 0.2
     end
   end
