@@ -4,7 +4,9 @@ require 'pry'
 require 'json'
 require 'geocoder'
 
-html = open('https://github.com/stevekinney/pizza/blob/master/README.md')
+# html = open('https://github.com/stevekinney/pizza/blob/master/README.md')
+html = open('https://github.com/cluhring/pizza/blob/master/README.md')
+
 pizza  = Nokogiri::HTML(html)
 
 states = pizza.css('div#readme h3')
