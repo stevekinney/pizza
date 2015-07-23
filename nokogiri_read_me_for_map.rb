@@ -2,6 +2,7 @@ require 'nokogiri'
 require 'open-uri'
 require 'pry'
 require 'json'
+require 'geocoder'
 
 html = open('https://github.com/stevekinney/pizza/blob/master/README.md')
 pizza  = Nokogiri::HTML(html)
@@ -33,7 +34,7 @@ pizza_hash =
 # cities.each { |city| puts city.next_sibling.next_sibling.text.chomp }
 
 # this lists pizzaria under cooresponding city:
-cities.each { |city| puts "#{city.text.chomp}: #{city.next_sibling.next_sibling.text.chomp}" }
+# cities.each { |city| puts "#{city.text.chomp}: #{city.next_sibling.next_sibling.text.chomp}" }
 
 pizzerias.each { |pizzeria| puts
 
@@ -78,11 +79,14 @@ pizza_hash["features"].map { |pizza_ob| pizza_ob["properties"]["Pizzeria"].downc
   cities.each do |city|
     if city.next_sibling.next_sibling.text.downcase.delete("\n").gsub(/[^a-z]/, "").include?(name)
     pizza_hash["features"][p_o]["properties"]["City"] = city.text
+    result = Geocoder.search(city.text)
+    pizza_hash["features"][p_o]["geometry"]["coordinates"] = [result.first.longitude, result.first.latitude]
     end
-    # binding.pry
     p_o += 1
   end
 end
+
+# Geocoder.search("1 Twins Way, Minneapolis")
 
 File.open("./pizza_map.json","a+") do |f|
   f.write(pizza_hash.to_json)
