@@ -54,7 +54,7 @@ pizzerias.each { |pizzeria| puts
     },
     "geometry" => {
       "type" => "Point",
-      "coordinates" => [-105.1667, 39.9333]
+      "coordinates" => nil
     }
   }
 pizza_hash["features"] << pizzeria_obj
@@ -78,9 +78,10 @@ pizza_hash["features"].map { |pizza_ob| pizza_ob["properties"]["Pizzeria"].downc
   p_o = 0
   cities.each do |city|
     if city.next_sibling.next_sibling.text.downcase.delete("\n").gsub(/[^a-z]/, "").include?(name)
-    pizza_hash["features"][p_o]["properties"]["City"] = city.text
-    result = Geocoder.search(city.text)
-    pizza_hash["features"][p_o]["geometry"]["coordinates"] = [result.first.longitude, result.first.latitude]
+      pizza_hash["features"][p_o]["properties"]["City"] = city.text
+      result = Geocoder.search(city.text)
+      require 'pry' ; binding.pry
+      pizza_hash["features"][p_o]["geometry"]["coordinates"] = [result.first.longitude, result.first.latitude]
     end
     p_o += 1
   end
