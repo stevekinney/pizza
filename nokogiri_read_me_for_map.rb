@@ -80,8 +80,8 @@ pizza_hash["features"].map { |pizza_ob| pizza_ob["properties"]["Pizzeria"].downc
     if city.next_sibling.next_sibling.text.downcase.delete("\n").gsub(/[^a-z]/, "").include?(name)
       pizza_hash["features"][p_o]["properties"]["City"] = city.text
       result = Geocoder.search(city.text)
-      require 'pry' ; binding.pry
       pizza_hash["features"][p_o]["geometry"]["coordinates"] = [result.first.longitude, result.first.latitude]
+      sleep 1
     end
     p_o += 1
   end
@@ -89,6 +89,6 @@ end
 
 # Geocoder.search("1 Twins Way, Minneapolis")
 
-File.open("./pizza_map.json","a+") do |f|
+File.open("./pizza_map.geojson","a+") do |f|
   f.write(pizza_hash.to_json)
 end
