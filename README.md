@@ -30,6 +30,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Golden Boy](http://www.goldenboypizza.com/)
 * [Little Star](http://www.littlestarpizza.com/)
 * [Una Pizza Napoletana](http://www.unapizza.com/)
+* [Tony’s Pizza Napoletana](http://tonyspizzanapoletana.com/)
 
 #### Santa Monica
 
@@ -117,6 +118,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### St. Louis
 
 * [Joe Boccardi's Ristorante](http://www.joeboccardis.com/)
+* [Pi Pizzeria](http://pi-pizza.com)
+* [Dewey's Pizza](http://www.deweyspizza.com)
+* [Imo's Pizza](http://imospizza.com/)
+* [Randolfi's](https://twitter.com/randolfisstl)
 
 ### Nebraska
 
