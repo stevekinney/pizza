@@ -73,6 +73,6 @@ pizzeria_hash["features"].each do |x|
   end
 end
 
-File.open("./pizza_map1.geojson","a+") do |f|
+File.open("./pizza_map.geojson","a+") do |f|
   f.write(pizzeria_hash.to_json)
 end
