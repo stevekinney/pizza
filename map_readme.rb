@@ -1,14 +1,17 @@
-require 'nokogiri'
-require 'open-uri'
-require 'pry'
-require 'json'
-require 'geocoder'
+require "nokogiri"
+require "pry"
+require "json"
+require "geocoder"
+require "redcarpet"
 
-html = open('https://github.com/stevekinney/pizza/blob/master/README.md')
+markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML, autolink: true, tables: true)
+readme = File.open("README.md")
+html = markdown.render(readme.read)
+readme.close
 
 pizza  = Nokogiri::HTML(html)
-cities = pizza.css('div#readme h4')
-pizzerias = pizza.css('div#readme li')
+cities = pizza.css('h4')
+pizzerias = pizza.css('li')
 
 pizzeria_hash =
 {
@@ -28,8 +31,9 @@ pizzerias.each { |pizzeria|
     "type" => "Feature",
     "properties" => {
       "City" => nil,
-      "Pizzeria" => pizzeria.text.chomp,
+      "Pizzeria" => pizzeria.first_element_child.text.chomp,
       "website" => pizzeria.child['href'].chomp,
+      "address" => pizzeria.css('[href="#address"]').text.chomp,
       "marker-size" => "medium",
       "marker-color" => "ffff00",
       "marker-symbol" => "restaurant"
@@ -48,13 +52,13 @@ pizzeria_hash["features"].each do |x|
     pizzeria2 = x["properties"]["Pizzeria"].downcase.delete("\n").gsub(/[^a-z]/, "")
     if pizzeria1.include?(pizzeria2)
       x["properties"]["City"] = city.text.chomp
-      geo_result = Geocoder.search(city.text)
-      x["geometry"]["coordinates"] = [geo_result.first.longitude + (rand(1..100) * 10**-3), geo_result.first.latitude + (rand(1..100) * 10**-3)]
+      geo_result = Geocoder.search(x["properties"]["address"] + ', ' + city.text)
+      x["geometry"]["coordinates"] = [geo_result.first.longitude, geo_result.first.latitude]
       sleep 0.2
     end
   end
 end
 
-File.open("./pizza_map.geojson","w+") do |f|
+File.open("./pizza_map.geojson", "w+") do |f|
   f.write(pizzeria_hash.to_json)
 end
