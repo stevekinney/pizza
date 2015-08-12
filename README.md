@@ -39,6 +39,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 ### Colorado
 
+#### Boulder
+
+* [Pizzeria Locale](http://localeboulder.com/) - [1730 Pearl St](#address)
+
 #### Denver
 
 * [Lucky Pie](http://www.luckypiepizza.com/lodo/) - [1610 16th St](#address)
@@ -266,6 +270,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [East Side Pies](http://eastsidepies.com/) - [1401 Rosewood Ave](#address)
 * [Via 313](http://www.via313.com) - [1111 E 6th St](#address)
 * [Home Slice](https://www.homeslicepizza.com) - [1415 S Congress Ave](#address)
+
+#### Longview
+
+* [Pizza King](http://www.yelp.com/biz/pizza-king-longview) - [1100 E Marshall Ave](#address)
 
 ### Washington
 
