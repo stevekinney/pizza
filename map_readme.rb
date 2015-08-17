@@ -30,8 +30,8 @@ pizzerias.each { |pizzeria|
   pizzeria_obj = {
     "type" => "Feature",
     "properties" => {
-      "City" => nil,
-      "Pizzeria" => pizzeria.first_element_child.text.chomp,
+      "city" => nil,
+      "pizzeria" => pizzeria.first_element_child.text.chomp,
       "website" => pizzeria.child['href'].chomp,
       "address" => pizzeria.css('[href="#address"]').text.chomp,
       "marker-size" => "medium",
@@ -49,9 +49,9 @@ pizzeria_hash["features"] << pizzeria_obj
 pizzeria_hash["features"].each do |x|
   cities.each do |city|
     pizzeria1 = city.next_sibling.next_sibling.text.downcase.delete("\n").gsub(/[^a-z]/, "")
-    pizzeria2 = x["properties"]["Pizzeria"].downcase.delete("\n").gsub(/[^a-z]/, "")
+    pizzeria2 = x["properties"]["pizzeria"].downcase.delete("\n").gsub(/[^a-z]/, "")
     if pizzeria1.include?(pizzeria2)
-      x["properties"]["City"] = city.text.chomp
+      x["properties"]["city"] = city.text.chomp
       geo_result = Geocoder.search(x["properties"]["address"] + ', ' + city.text)
       x["geometry"]["coordinates"] = [geo_result.first.longitude, geo_result.first.latitude]
       sleep 0.2
