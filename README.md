@@ -15,6 +15,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Hi-Life](http://www.hilifeoakland.com) - [400 15th St](#address)
 * [Zachary's](http://zacharys.com/locations/oakland) - [5801 College Ave.](#address)
+* [Nicks](http://oaklandstylepizza.com/) - [6211 Shattuck Ave.](#address)
 
 #### Palo Alto
 
