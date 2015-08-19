@@ -13,7 +13,12 @@ namespace '/api' do
     get '/pizzerias/:id' do
       content_type :json
       id = params[:id].to_i - 1
-      geojson_data['features'][id].to_json
+      json = geojson_data['features'][id].to_json
+      if json == 'null'
+        raise Sinatra::NotFound
+      else
+        json
+      end
     end
 
     get '/properties/search' do
@@ -23,7 +28,6 @@ namespace '/api' do
 
       valid_query? ? return_search_results.to_json : []
     end
-
 
   end
 end
