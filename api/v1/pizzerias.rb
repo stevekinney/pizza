@@ -1,13 +1,23 @@
 require 'sinatra'
-require "sinatra/namespace"
+require 'sinatra/namespace'
+require 'sinatra/cross_origin'
 require 'json'
+
+class API < Sinatra::Base
+
+configure do
+  register Sinatra::Namespace
+  register Sinatra::CrossOrigin
+end
+
+enable :cross_origin
 
 namespace '/api' do
   namespace '/v1' do
-    
+
     get '/pizzerias' do
       content_type :json
-      geojson_data.to_json
+      geojson_data['features'].to_json
     end
 
     get '/pizzerias/:id' do
@@ -44,3 +54,4 @@ private
   def return_search_results
     @pizzerias.select{ |pizzeria| pizzeria['properties'][@query].downcase == params[@query].downcase}
   end
+end

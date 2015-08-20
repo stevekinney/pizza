@@ -1,8 +1,8 @@
 # USING THE API
 
 ### UP & RUNNING
-run `ruby api/v1/pizzerias.rb`
-This is a Sinatra API, so it will run locally on `http://localhost:4567`.
+run `rackup`
+This is a Rack API, so it will run locally on `http://localhost:9292`.
 Attach the endpoint you want to that url to get back info.
 
 ### USING THE ENDPOINTS
