@@ -261,6 +261,9 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [In Riva](http://www.in-riva.com/images/menuDINNER.pdf) - [4116 Ridge Ave](#address)
 * [Nomad Pizza Co](http://www.nomadpizzaco.com/) - [611 S 7th St](#address)
+* [Gennaro's Tomato Pie](https://www.facebook.com/GennarosTomatoPie) - [1429 Jackson St](#address)
+* [Pizzeria Beddia](https://pizzeriabeddia.wordpress.com) - [115 E Girard Ave](#address)
+* [Tacconelli's](http://www.tacconellispizzeria.com) - [2604 E Somerset St](#address)
 
 #### Pittsburgh
 
