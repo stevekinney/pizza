@@ -232,9 +232,13 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 ### Ohio
 
+#### Columbus
+
+* [Emelio's](http://www.emelioscatering.com) - [574 Georgesville Rd](#address)
+
 #### Powell
 
-* [Brooklyn Pizza](http://www.brooklynpizzapowell.com/) - [240 North Liberty St](#address)
+* [Brooklyn Pizza](http://www.brooklynpizzapowell.com) - [240 North Liberty St](#address)
 
 ### Oregon
 
