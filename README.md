@@ -233,6 +233,16 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Capital Creations](http://capitalcreations.com) - [1842 Wake Forest Rd](#address)
 * [Mellow Mushroom](http://mellowmushroom.com/store/raleigh) - [601 W Peace St](#address)
 
+### Ohio
+
+#### Columbus
+
+* [Emelio's](http://www.emelioscatering.com) - [574 Georgesville Rd](#address)
+
+#### Powell
+
+* [Brooklyn Pizza](http://www.brooklynpizzapowell.com) - [240 North Liberty St](#address)
+
 ### Oregon
 
 #### Eugene
