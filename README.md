@@ -32,6 +32,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Little Star](http://www.littlestarpizza.com/) - [846 Divisadero St](#address)
 * [Una Pizza Napoletana](http://www.unapizza.com/) - [210 11th St](#address)
 * [Tony’s Pizza Napoletana](http://tonyspizzanapoletana.com/) - [1570 Stockton St](#address)
+* [Slice House](http://slicehouse2ndst.com/) - [680 2nd St.](#address)
 
 #### Santa Monica
 
