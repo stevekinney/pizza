@@ -82,6 +82,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Coalfire](http://coalfirechicago.com/menu/index.html) - [1321 W Grand Ave](#address)
 * [Piece](http://www.piecechicago.com/pizza.php) - [1927 W North Ave](#address)
+* [Pequod's](http://pequodspizza.com) - [2207 N. Clybourn Ave](#address)
 * [Santullo's](http://www.santullos.com) - [1943 W North Ave](#address)
 
 #### Rockford
