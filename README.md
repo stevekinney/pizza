@@ -11,6 +11,9 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 ### California
 
+#### Chico
+* [Celestino's](http://www.celestinosnypizza.com/) - [101 Salem Street](#address)
+
 #### Oakland
 
 * [Hi-Life](http://www.hilifeoakland.com) - [400 15th St](#address)
