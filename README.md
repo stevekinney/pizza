@@ -28,6 +28,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Pizzeria Luigi](http://www.pizzerialuigi.com/) - [2121 El Cajon Blvd.](#address)
 * [Pizza Port](http://www.pizzaport.com) - [1956 Bacon St](#address)
+* [Sicilian Thing Pizza](http://www.sicilianthingpizza.com/) - [4046 30th St](#address)
 
 #### San Francisco
 
