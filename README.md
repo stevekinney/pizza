@@ -263,6 +263,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Nashville
 
 * [Five Points Pizza](http://www.fivepointspizza.com/) - [1012 Woodland St](#address)
+* [Desano Pizza Bakery](http://desanopizza.it/) - [115 16th Avenue](#address)
 
 ### Texas
 
