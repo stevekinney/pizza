@@ -110,7 +110,6 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Detroit
 
 * [Supino Pizzeria](http://supinopizzeria.com/) - [2457 Russell St](#address)
-* [Pie Sci](https://www.facebook.com/piescipizza)
 
 ### Minnesota
 
