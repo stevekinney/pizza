@@ -11,6 +11,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 ### California
 
+#### Berkeley
+
+* [Emilia's](http://emiliaspizzeria.com/) - [2995 Shattuck Ave](#address)
+
 #### Chico
 * [Celestino's](http://www.celestinosnypizza.com/) - [101 Salem Street](#address)
 
