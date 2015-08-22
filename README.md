@@ -302,10 +302,12 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### Seattle
 
-* [Via Tribunali](http://viatribunali.com/) - [913 E Pike St](#address)
 * [Belltown Pizza](http://belltownpizza.net/) - [2422 1st Ave](#address)
-* [Serious Pie](http://seriouspieseattle.com/) - [316 Virginia St](#address)
+* [Flying Squirrel](http://www.flyingsquirrelpizza.com/) - [4920 S. Genesee St](#address), [8310 5th Ave NE](#address), [5701 Airport Way S](#address)
+* [Humble Pie](http://humblepieseattle.com/) - [525 Rainier Avenue South](#address)
 * [Pagliacci Pizza](http://www.pagliacci.com/) - [719 Aurora Ave N](#address)
+* [Serious Pie](http://seriouspieseattle.com/) - [316 Virginia St](#address)
+* [Via Tribunali](http://viatribunali.com/) - [913 E Pike St](#address)
 
 ### Wisconsin
 
