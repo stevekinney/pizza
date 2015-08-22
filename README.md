@@ -111,6 +111,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Supino Pizzeria](http://supinopizzeria.com/) - [2457 Russell St](#address)
 
+#### Holland
+
+* [Fricano's Too](http://www.fricanospizza.com/) - [174 S River Ave](#address)
+
 ### Minnesota
 
 #### Saint Paul / Minneapolis
