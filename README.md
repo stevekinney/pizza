@@ -108,6 +108,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Big Daddy's Pizza](http://bigdaddyspizza.biz/) - [436 Western Ave](#address)
 * [Pizzeria Regina](http://www.pizzeriaregina.com/) - [226 Faneuil Hall Market Place](#address)
+* [Santarpio's Pizza](http://www.santarpiospizza.com/) - [111 Chelsea Street](#address)
 
 ### Michigan
 

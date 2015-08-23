@@ -8,3 +8,4 @@ gem 'redcarpet'
 # For the API
 gem 'sinatra'
 gem 'sinatra-contrib'
+gem 'sinatra-cross_origin'
