@@ -47,6 +47,3 @@ DEPENDENCIES
   sinatra
   sinatra-contrib
   sinatra-cross_origin
-
-BUNDLED WITH
-   1.10.6

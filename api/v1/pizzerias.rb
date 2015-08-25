@@ -1,5 +1,6 @@
 require 'sinatra'
 require 'sinatra/namespace'
+require "sinatra/reloader"
 require 'sinatra/cross_origin'
 require 'json'
 
@@ -8,6 +9,10 @@ class API < Sinatra::Base
 configure do
   register Sinatra::Namespace
   register Sinatra::CrossOrigin
+end
+
+configure :development do
+  register Sinatra::Reloader
 end
 
 enable :cross_origin
@@ -33,7 +38,7 @@ namespace '/api' do
 
     get '/properties/search' do
       content_type :json
-      @query = params.keys.first
+      @query = params.keys
       @pizzerias = geojson_data['features']
 
       valid_query? ? return_search_results.to_json : []
@@ -48,10 +53,26 @@ private
   end
 
   def valid_query?
-    @pizzerias.any?{|pizzeria| pizzeria['properties'].has_key?(@query)}
+    @query.all? {|k| VALID_PROPERTY_PARAMS.include?(k)}
   end
   
   def return_search_results
-    @pizzerias.select{ |pizzeria| pizzeria['properties'][@query].downcase == params[@query].downcase}
+    @pizzerias = geojson_data['features']
+    locations = @pizzerias.select do |location|
+      params.all? do |key, value|
+        location['properties'][key].downcase == value.downcase
+      end
+    end
   end
+
 end
+
+VALID_PROPERTY_PARAMS = [
+  'city',
+  'pizzeria',
+  'website',
+  'address',
+  'marker-size',
+  'marker-color',
+  'marker-symbol'
+]

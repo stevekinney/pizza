@@ -27,6 +27,9 @@ Search will currently allow for any property param listed below:
 
 EXAMPLE SEARCH QUERY: `api/v1/properties/search?pizzeria=lucky pie`
 
+Search will dynamically take params allowing you to filter your results to the 'n'th degree.
+- e.g. `api/v1/properties/search?city=oakland&pizzeria=nicks`
+
 If you give it an invalid param, e.g `api/v1/properties/search?cats=grumpy`, or there are no results for the query, e.g, `api/v1/properties/search?city=middle of nowhere`, the API will return an empty array.
 
 
