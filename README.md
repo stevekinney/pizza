@@ -298,6 +298,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [East Side Pies](http://eastsidepies.com/) - [1401 Rosewood Ave](#address)
 * [Via 313](http://www.via313.com) - [1111 E 6th St](#address)
 * [Home Slice](https://www.homeslicepizza.com) - [1415 S Congress Ave](#address)
+* [The Austin Beer Garden Brewing Company](http://theabgb.com/) - [1305 W Oltorf](#address)
 
 #### Longview
 
