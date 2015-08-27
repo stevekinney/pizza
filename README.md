@@ -102,6 +102,11 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Napolese](http://napolesepizzeria.com) - [30 S Meridian St](#address)
 
+#### South Bend
+
+* [Barnaby's](http://www.barnabys-pizza.com/) - [713 E. Jefferson Blvd](#address)
+* [Bruno's](http://www.brunospizza.com/) - [2202 E Mishawaka Ave](#address)
+
 ### Massachusetts
 
 #### Boston
