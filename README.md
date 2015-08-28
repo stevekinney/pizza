@@ -152,6 +152,12 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Pitch Pizzeria](http://www.pitchpizzeria.com) - [5021 Underwood Ave](#address)
 
+### Nevada
+
+#### Henderson
+
+* [Settebello](http://settebello.net/) - [140 S Green Valley Pkwy](#address)
+
 ### New Hampshire
 
 #### Manchester

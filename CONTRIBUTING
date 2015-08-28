@@ -4,6 +4,7 @@
 
 * Deep dish pizza is not pizza and has no place in this project.
 * **(Optional)** Wrap street addresses in a link with the anchor name `#address`, e.g.,  `[Prince Street Pizza](http://www.yelp.com/biz/prince-st-pizza-new-york)[27 Prince St](#address)`
+* Update the geoJSON for the API with your pizzeria by running `ruby map_readme.rb` after you make your edits to the README file.
 
 ## Style Guide
 
