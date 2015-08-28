@@ -257,6 +257,12 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Brooklyn Pizza](http://www.brooklynpizzapowell.com) - [240 North Liberty St](#address)
 
+### Oklahoma
+
+#### Oklahoma City
+
+* [Empire Slice House](http://www.empireslicehouse.com/) - [1734 NW 16th St](#address)
+
 ### Oregon
 
 #### Eugene
