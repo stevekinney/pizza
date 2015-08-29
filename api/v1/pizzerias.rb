@@ -4,6 +4,8 @@ require 'sinatra/reloader'
 require 'sinatra/cross_origin'
 require 'json'
 
+Encoding.default_external = 'UTF-8'
+
 class API < Sinatra::Base
   configure do
     register Sinatra::Namespace
