@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+path {
+  fill: #ccc;
+  stroke: #000000;
+  stroke-linejoin: round;
+}
+
+.states-label {
+  fill: #ffffff;
+  border: #000000;
+  fill-opacity: .8;
+  font-size: 8px;
+  font-weight: 300;
+  text-anchor: middle;
+}
+
+.pizza-label {
+  fill: #777;
+  fill-opacity: 0;
+  font-size: 1px;
+  font-weight: 500;
+  text-anchor: middle;
+}
+
+.background {
+  fill: none;
+  pointer-events: all;
+}
+
+.states.active {
+  fill: #feaa37;
+}
+
+.states {
+  cursor: pointer;
+  fill: #244f6a;
+  stroke: #fff;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.states:hover {
+  cursor: pointer;
+  fill: #feaa37;
+  stroke: #fff;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.d3-tip {
+  line-height: 1;
+  font-size: 30px;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+  pointer-events: none;
+}
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  position: absolute;
+  pointer-events: none;
+}
+/* Northward tooltips */
+.d3-tip.n:after {
+  content: "\25BC";
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+  text-align: center;
+}
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+<script src="index.js"></script>
+<script>
+
+var width = 2000,
+    height = 1000,
+    active = d3.select(null);
+
+var projection = d3.geo.albersUsa()
+  .scale(1000)
+  .translate([width / 2, height / 2]);
+
+var zoom = d3.behavior.zoom()
+    .translate([0, 0])
+    .scale(1)
+    .scaleExtent([1, 8])
+    .on("zoom", zoomed);
+
+var path = d3.geo.path()
+    .projection(projection)
+    .pointRadius(2);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height)
+    .on("click", stopped, true);
+
+svg.append("rect")
+    .attr("class", "background")
+    .attr("width", width)
+    .attr("height", height)
+    .on("click", reset);
+
+var g = svg.append("g");
+
+var tip = d3.tip()
+    .attr('class', 'd3-tip')
+    .offset([-10, 0])
+    .html(function(d) { return d.id; });
+
+svg
+    .call(zoom)
+    .call(zoom.event)
+    .call(tip);
+
+queue()
+    .defer(d3.json, "us.json")
+    .await(ready);
+
+function ready(error, us) {
+  if (error) throw error;
+
+  g.selectAll(".states")
+      .data(topojson.feature(us, us.objects.states).features)
+    .enter().append("path")
+      .attr("class", function(d) { return "states " + d.id; })
+      .attr("d", path)
+      .on("click", clicked);
+
+  g.append("path")
+    .data(topojson.mesh(us, us.objects.states, function(a, b) {return a !== b; }))
+    .attr("class", "states")
+    .attr("d", path);
+
+  g.selectAll(".pizza")
+      .data(topojson.feature(us, us.objects.pizza_map).features)
+    .enter().append("path")
+      .attr("class", function(d) { return "pizza " + d.id; })
+      .attr("d", path);
+
+  g.append("path")
+    .datum(topojson.feature(us, us.objects.pizza_map))
+    .attr("class", "pizza")
+    .style("fill", "#e03e27")
+    .attr("d", path);
+
+  g.selectAll(".states-label")
+      .data(topojson.feature(us, us.objects.states).features)
+    .enter().append("text")
+      .attr("class", function(d) { return "states-label " + d.id; })
+      .attr("transform", function(d) { return "translate(" + path.centroid(d) + ")"; })
+      .attr("dy", ".35em")
+      .text(function(d) { return d.id; });
+
+  g.selectAll(".pizza-label")
+      .data(topojson.feature(us, us.objects.pizza_map).features)
+    .enter().append("text")
+      .attr("class", "pizza-label")
+      .attr("transform", function(d) { return "translate(" + projection(d.geometry.coordinates) + ")"; })
+      .attr("dy", ".35em")
+      .on('mouseover', tip.show)
+      .on('mouseout', tip.hide)
+      .text(function(d) { return d.id; });
+};
+
+
+function clicked(d) {
+  if (active.node() === this) return reset();
+  active.classed("active", false);
+  active = d3.select(this).classed("active", true);
+
+  var bounds = path.bounds(d),
+      dx = bounds[1][0] - bounds[0][0],
+      dy = bounds[1][1] - bounds[0][1],
+      x = (bounds[0][0] + bounds[1][0]) / 2,
+      y = (bounds[0][1] + bounds[1][1]) / 2,
+      scale = .9 / Math.max(dx / width, dy / height),
+      translate = [width / 2 - scale * x, height / 2 - scale * y];
+
+  svg.transition()
+      .duration(750)
+      .call(zoom.translate(translate).scale(scale).event);
+}
+
+function reset() {
+  active.classed("active", false);
+  active = d3.select(null);
+
+  svg.transition()
+      .duration(750)
+      .call(zoom.translate([0, 0]).scale(1).event);
+}
+
+function zoomed() {
+    g.style("stroke-width", 1.5 / d3.event.scale + "px");
+    g.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+}
+
+// If the drag behavior prevents the default click,
+// also stop propagation so we don’t click-to-zoom.
+function stopped() {
+  if (d3.event.defaultPrevented) d3.event.stopPropagation();
+}
+
+</script>
