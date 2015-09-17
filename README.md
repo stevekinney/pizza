@@ -62,6 +62,9 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Lucky Pie](http://www.luckypiepizza.com/lodo/) - [1610 16th St](#address)
 
+#### Westminster
+* [The Garlic Knot](http://www.garlicknotpizza.com/) - [7727 W 92nd Ave](#address)
+
 ### Connecticut
 
 #### New Haven
