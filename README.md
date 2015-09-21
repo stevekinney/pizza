@@ -325,6 +325,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Home Slice](https://www.homeslicepizza.com) - [1415 S Congress Ave](#address)
 * [The Austin Beer Garden Brewing Company](http://theabgb.com/) - [1305 W Oltorf](#address)
 
+#### Houston
+
+* [Frank's Pizza](http://frankspizza.com) - [417 Travis St](#address)
+
 #### Longview
 
 * [Pizza King](http://www.yelp.com/biz/pizza-king-longview) - [1100 E Marshall Ave](#address)
