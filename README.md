@@ -123,6 +123,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Pizzeria Regina](http://www.pizzeriaregina.com/) - [226 Faneuil Hall Market Place](#address)
 * [Santarpio's Pizza](http://www.santarpiospizza.com/) - [111 Chelsea Street](#address)
 
+#### Cambridge
+
+* [Pinocchio's Pizza & Subs](http://www.pinocchiospizza.net/) - [74 Winthrop Street](#address)
+
 ### Michigan
 
 #### Detroit
@@ -241,6 +245,11 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Staten Island
 
 * [Joe and Pat's](http://www.yelp.com/biz/joe-and-pats-staten-island) - [1758 Victory Blvd](#address)
+
+#### Syracuse
+
+* [Patsy's Pizza](http://www.patsyspizza.net/) - [1205 Erie Boulevard W](#address)
+* [Varsity Pizza](http://www.yelp.com/biz/varsity-pizza-syracuse) - [802 S Crouse Ave](#address)
 
 ### North Carolina
 
