@@ -212,6 +212,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Pete & Elda's / Carmen's Pizzeria](http://www.peteandeldas.com/) - [96 Woodland Ave](#address)
 
+#### Manahawkin
+
+* [Anthony's Pizza](http://www.yelp.com/biz/anthonys-restaurant-and-pizzeria-manahawkin) - [857 Mill Creek Rd](#address)
+
 #### Woodbridge
 
 * [San Remo Pizza](http://www.sanremopizza.net/) - [87 Main St](#address)
