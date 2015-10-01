@@ -90,10 +90,9 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### Gainesville
 
-* [Leonardo's](http://www.leonardosgainesville.com/) - [1245 W University Ave](#address)
 * [Big Lou's](http://www.biglouspizzeria.com/) - [5 SE 2nd Ave](#address)
+* [Leonardo's](http://www.leonardosgainesville.com/) - [1245 W University Ave](#address)
 * [Satchel's](http://www.satchelspizza.com/) - [1800 NE 23rd Ave](#address)
-
 
 ### Georgia
 
