@@ -86,6 +86,14 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Matchbox Pizza](http://www.matchboxrestaurants.com/) - [713 H St NW](#address)
 * [Pete's New Haven Pizza](http://petesapizza.com/) - [1400 Irving St NW #103](#address)
 
+### Florida
+
+#### Gainesville
+
+* [Big Lou's](http://www.biglouspizzeria.com/) - [5 SE 2nd Ave](#address)
+* [Leonardo's](http://www.leonardosgainesville.com/) - [1245 W University Ave](#address)
+* [Satchel's](http://www.satchelspizza.com/) - [1800 NE 23rd Ave](#address)
+
 ### Georgia
 
 #### Atlanta
