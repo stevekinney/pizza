@@ -173,7 +173,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### Omaha
 
-* [Pitch Pizzeria](http://www.pitchpizzeria.com) - [5021 Underwood Ave](#address)
+* [Pitch Pizzeria](http://www.pitchpizzeria.com) - [5021 Underwood Ave](#address), [17808 Burke St](#address)
 
 ### Nevada
 
