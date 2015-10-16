@@ -64,6 +64,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Denver
 
 * [Lucky Pie](http://www.luckypiepizza.com/lodo/) - [1610 16th St](#address)
+* [Denver Pizza Company](http://www.denverpizzaco.com/) - [309 W 11th Ave](#address)
 
 #### Westminster
 * [The Garlic Knot](http://www.garlicknotpizza.com/) - [7727 W 92nd Ave](#address)
