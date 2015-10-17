@@ -95,6 +95,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Leonardo's](http://www.leonardosgainesville.com/) - [1245 W University Ave](#address)
 * [Satchel's](http://www.satchelspizza.com/) - [1800 NE 23rd Ave](#address)
 
+#### Orlando
+
+* [Lazy Moon](http://www.lazymoonpizza.com/) - [11551 University Blvd](#address)
+
 ### Georgia
 
 #### Atlanta
