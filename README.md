@@ -16,7 +16,6 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [The Cheese Board Collective](http://cheeseboardcollective.coop/) - [1504 Shattuck Ave](#address)
 * [Emilia's](http://emiliaspizzeria.com/) - [2995 Shattuck Ave](#address)
 
-
 #### Chico
 
 * [Celestino's](http://www.celestinosnypizza.com/) - [101 Salem Street](#address)
@@ -37,6 +36,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### San Diego
 
+* [Newport Pizza and Ale House](http://www.yelp.com/biz/newport-pizza-and-ale-house-san-diego) - [5050 Newport Ave](#address)
 * [Pizza Port](http://www.pizzaport.com) - [1956 Bacon St](#address)
 * [Pizzeria Luigi](http://www.pizzerialuigi.com/) - [2121 El Cajon Blvd.](#address)
 * [Sicilian Thing Pizza](http://www.sicilianthingpizza.com/) - [4046 30th St](#address)
