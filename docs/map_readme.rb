@@ -27,23 +27,25 @@ pizzeria_hash =
 }
 
 pizzerias.each { |pizzeria|
-  pizzeria_obj = {
-    "type" => "Feature",
-    "properties" => {
-      "city" => nil,
-      "pizzeria" => pizzeria.first_element_child.text.chomp,
-      "website" => pizzeria.child['href'].chomp,
-      "address" => pizzeria.css('[href="#address"]').text.chomp,
-      "marker-size" => "medium",
-      "marker-color" => "ffff00",
-      "marker-symbol" => "restaurant"
-    },
-    "geometry" => {
-      "type" => "Point",
-      "coordinates" => nil
+  pizzeria.css('[href="#address"]').each { |location|
+    pizzeria_obj = {
+      "type" => "Feature",
+      "properties" => {
+        "city" => nil,
+        "pizzeria" => pizzeria.first_element_child.text.chomp,
+        "website" => pizzeria.child['href'].chomp,
+        "address" => location.text.chomp,
+        "marker-size" => "medium",
+        "marker-color" => "ffff00",
+        "marker-symbol" => "restaurant"
+      },
+      "geometry" => {
+        "type" => "Point",
+        "coordinates" => nil
+      }
     }
+    pizzeria_hash["features"] << pizzeria_obj
   }
-pizzeria_hash["features"] << pizzeria_obj
 }
 
 pizzeria_hash["features"].each do |x|
