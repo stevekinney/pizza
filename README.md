@@ -176,6 +176,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 ### Nebraska
 
+#### Lincoln
+
+* [YiaYia's](http://yiayiaspizza.com/) - [1423 O St](#address)
+
 #### Omaha
 
 * [Pitch Pizzeria](http://www.pitchpizzeria.com) - [5021 Underwood Ave](#address), [17808 Burke St](#address)
