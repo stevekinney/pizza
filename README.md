@@ -65,6 +65,8 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Lucky Pie](http://www.luckypiepizza.com/lodo/) - [1610 16th St](#address)
 * [Benny Blancos](http://www.yelp.com/biz/benny-blancos-denver) - [616 E 13th Ave](#address)
+* [Blue Pan Pizza](http://bluepandenver.com/) - [3930 W 32nd Ave](#address)
+* [Fat Sully's](www.fatsullys.com) - [3237 E Colfax Ave](#address) 
 
 #### Westminster
 * [The Garlic Knot](http://www.garlicknotpizza.com/) - [7727 W 92nd Ave](#address)
