@@ -74,6 +74,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### New Haven
 
 * [Bar](http://www.barnightclub.com/) - [254 Crown St](#address)
+* [Da Legna](http://dalegna.com/) - [858 State St](#address)
 * [Modern Apizza](http://www.modernapizza.com/) - [874 State St](#address)
 * [Pepe's](http://pepespizzeria.com/) - [157 Wooster St](#address)
 * [Sally's Apizza](http://www.sallysapizza.com/) - [237 Wooster St](#address)
