@@ -368,6 +368,12 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Pizza King](http://www.yelp.com/biz/pizza-king-longview) - [1100 E Marshall Ave](#address)
 
+### Utah
+
+#### Salt Lake City
+
+* [Pie Hole](http://pieholeutah.com/index2.html) - [344 S State St](#address)
+
 ### Washington
 
 #### Seattle
