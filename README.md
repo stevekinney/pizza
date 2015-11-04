@@ -327,6 +327,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### Philadelphia
 
+* [Dock Street Brewery](http://www.dockstreetbeer.com/) - [701 South 50th Street](#address)
 * [Gennaro's Tomato Pie](https://www.facebook.com/GennarosTomatoPie) - [1429 Jackson St](#address)
 * [In Riva](http://www.in-riva.com/images/menuDINNER.pdf) - [4116 Ridge Ave](#address)
 * [Nomad Pizza Co](http://www.nomadpizzaco.com/) - [611 S 7th St](#address)
