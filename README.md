@@ -16,7 +16,6 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [The Cheese Board Collective](http://cheeseboardcollective.coop/) - [1504 Shattuck Ave](#address)
 * [Emilia's](http://emiliaspizzeria.com/) - [2995 Shattuck Ave](#address)
 
-
 #### Chico
 
 * [Celestino's](http://www.celestinosnypizza.com/) - [101 Salem Street](#address)
@@ -37,6 +36,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### San Diego
 
+* [Newport Pizza and Ale House](http://www.yelp.com/biz/newport-pizza-and-ale-house-san-diego) - [5050 Newport Ave](#address)
 * [Pizza Port](http://www.pizzaport.com) - [1956 Bacon St](#address)
 * [Pizzeria Luigi](http://www.pizzerialuigi.com/) - [2121 El Cajon Blvd.](#address)
 * [Sicilian Thing Pizza](http://www.sicilianthingpizza.com/) - [4046 30th St](#address)
@@ -65,6 +65,9 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Lucky Pie](http://www.luckypiepizza.com/lodo/) - [1610 16th St](#address)
 * [Denver Pizza Company](http://www.denverpizzaco.com/) - [309 W 11th Ave](#address)
+* [Benny Blancos](http://www.yelp.com/biz/benny-blancos-denver) - [616 E 13th Ave](#address)
+* [Blue Pan Pizza](http://bluepandenver.com/) - [3930 W 32nd Ave](#address)
+* [Fat Sully's](www.fatsullys.com) - [3237 E Colfax Ave](#address)
 
 #### Westminster
 * [The Garlic Knot](http://www.garlicknotpizza.com/) - [7727 W 92nd Ave](#address)
@@ -74,6 +77,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### New Haven
 
 * [Bar](http://www.barnightclub.com/) - [254 Crown St](#address)
+* [Da Legna](http://dalegna.com/) - [858 State St](#address)
 * [Modern Apizza](http://www.modernapizza.com/) - [874 State St](#address)
 * [Pepe's](http://pepespizzeria.com/) - [157 Wooster St](#address)
 * [Sally's Apizza](http://www.sallysapizza.com/) - [237 Wooster St](#address)
@@ -94,6 +98,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Big Lou's](http://www.biglouspizzeria.com/) - [5 SE 2nd Ave](#address)
 * [Leonardo's](http://www.leonardosgainesville.com/) - [1245 W University Ave](#address)
 * [Satchel's](http://www.satchelspizza.com/) - [1800 NE 23rd Ave](#address)
+
+#### Orlando
+
+* [Lazy Moon](http://www.lazymoonpizza.com/) - [11551 University Blvd](#address)
 
 ### Georgia
 
@@ -172,9 +180,13 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 ### Nebraska
 
+#### Lincoln
+
+* [YiaYia's](http://yiayiaspizza.com/) - [1423 O St](#address)
+
 #### Omaha
 
-* [Pitch Pizzeria](http://www.pitchpizzeria.com) - [5021 Underwood Ave](#address)
+* [Pitch Pizzeria](http://www.pitchpizzeria.com) - [5021 Underwood Ave](#address), [17808 Burke St](#address)
 
 ### Nevada
 
@@ -318,6 +330,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### Philadelphia
 
+* [Dock Street Brewery](http://www.dockstreetbeer.com/) - [701 South 50th Street](#address)
 * [Gennaro's Tomato Pie](https://www.facebook.com/GennarosTomatoPie) - [1429 Jackson St](#address)
 * [In Riva](http://www.in-riva.com/images/menuDINNER.pdf) - [4116 Ridge Ave](#address)
 * [Nomad Pizza Co](http://www.nomadpizzaco.com/) - [611 S 7th St](#address)
@@ -358,6 +371,12 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Longview
 
 * [Pizza King](http://www.yelp.com/biz/pizza-king-longview) - [1100 E Marshall Ave](#address)
+
+### Utah
+
+#### Salt Lake City
+
+* [Pie Hole](http://pieholeutah.com/index2.html) - [344 S State St](#address)
 
 ### Washington
 
