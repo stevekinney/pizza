@@ -64,6 +64,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Denver
 
 * [Lucky Pie](http://www.luckypiepizza.com/lodo/) - [1610 16th St](#address)
+* [Ernie's Bar & Pizza](http://www.erniesdenver.com) - [2915 W 44th Ave](#address)
 * [Denver Pizza Company](http://www.denverpizzaco.com/) - [309 W 11th Ave](#address)
 * [Benny Blancos](http://www.yelp.com/biz/benny-blancos-denver) - [616 E 13th Ave](#address)
 * [Blue Pan Pizza](http://bluepandenver.com/) - [3930 W 32nd Ave](#address)
