@@ -360,7 +360,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### Austin
 
+* [40 North](http://www.40northpizza.com) - [1502 S 1st St](#address)
 * [The Austin Beer Garden Brewing Company](http://theabgb.com/) - [1305 W Oltorf](#address)
+* [The Backspace](http://thebackspace-austin.com) - [507 San Jacinto St](#address)
+* [Bufalina](http://www.bufalinapizza.com) - [1519 E Cesar Chavez](#address)
 * [East Side Pies](http://eastsidepies.com/) - [1401 Rosewood Ave](#address)
 * [Home Slice](https://www.homeslicepizza.com) - [1415 S Congress Ave](#address)
 * [Little Deli](http://www.littledeliandpizza.com/) - [7101 Woodrow Ave](#address)
