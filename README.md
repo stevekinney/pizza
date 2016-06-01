@@ -271,6 +271,8 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Adrienne's Pizza Bar](http://www.adriennespizzabarnyc.com/) - [54 Stone St](#address)
 * [John's of Bleeker St](http://www.johnsbrickovenpizza.com/) - [278 Bleecker St](#address)
 * [Prince Street Pizza](http://www.yelp.com/biz/prince-st-pizza-new-york) - [27 Prince St](#address)
+* [Saluggi's](http://www.saluggis.com/) - [325 Church St](#address)
+
 
 #### Staten Island
 
