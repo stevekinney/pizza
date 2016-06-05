@@ -120,6 +120,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Coalfire](http://coalfirechicago.com/menu/index.html) - [1321 W Grand Ave](#address)
 * [Piece](http://www.piecechicago.com/pizza.php) - [1927 W North Ave](#address)
+* [Pequod's](http://pequodspizza.com) - [2207 N. Clybourn Ave](#address)
 * [Santullo's](http://www.santullos.com) - [1943 W North Ave](#address)
 
 #### Rockford
@@ -271,6 +272,8 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Adrienne's Pizza Bar](http://www.adriennespizzabarnyc.com/) - [54 Stone St](#address)
 * [John's of Bleeker St](http://www.johnsbrickovenpizza.com/) - [278 Bleecker St](#address)
 * [Prince Street Pizza](http://www.yelp.com/biz/prince-st-pizza-new-york) - [27 Prince St](#address)
+* [Saluggi's](http://www.saluggis.com/) - [325 Church St](#address)
+
 
 #### Staten Island
 
@@ -435,6 +438,12 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Rossini](http://www.yelp.com/biz/rossini-paris-3) - [8 Rue Rossini](#address)
 
+### Switzerland
+
+#### Geneva
+
+* [Luigia](http://www.luigia.ch/) - [1209, Chemin de la Tourelle 2](#address)
+
 ### Germany
 
 #### Berlin
@@ -469,3 +478,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Southampton
 
 * [It's a Pizza Thing](https://www.facebook.com/apizzathing) - [38-40 Adelaide Rd](#address)
+
+#### Glasgow
+
+* [La Favorita](http://lafav.co.uk/glasgow/) - [23-25 Gibson Street](#address)
