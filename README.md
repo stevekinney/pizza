@@ -432,6 +432,12 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Rossini](http://www.yelp.com/biz/rossini-paris-3) - [8 Rue Rossini](#address)
 
+### Switzerland
+
+#### Geneva
+
+* [Luigia](http://www.luigia.ch/) - [1209, Chemin de la Tourelle 2](#address)
+
 ### Germany
 
 #### Berlin
