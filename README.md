@@ -64,9 +64,12 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Denver
 
 * [Lucky Pie](http://www.luckypiepizza.com/lodo/) - [1610 16th St](#address)
+* [Denver Pizza Company](http://www.denverpizzaco.com/) - [309 W 11th Ave](#address)
 * [Benny Blancos](http://www.yelp.com/biz/benny-blancos-denver) - [616 E 13th Ave](#address)
 * [Blue Pan Pizza](http://bluepandenver.com/) - [3930 W 32nd Ave](#address)
-* [Fat Sully's](www.fatsullys.com) - [3237 E Colfax Ave](#address) 
+* [Fat Sully's](http://www.fatsullys.com) - [3237 E Colfax Ave](#address)
+* [Grimaldi's Pizzeria](http://www.grimaldispizzeria.com/)[500 16th Street, Unit 128](#address)
+* [Pizza Pedalr](http://www.pizzapedalr.com/)-[2907 Huron Street](#address)
 
 #### Westminster
 * [The Garlic Knot](http://www.garlicknotpizza.com/) - [7727 W 92nd Ave](#address)
@@ -117,6 +120,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Coalfire](http://coalfirechicago.com/menu/index.html) - [1321 W Grand Ave](#address)
 * [Piece](http://www.piecechicago.com/pizza.php) - [1927 W North Ave](#address)
+* [Pequod's](http://pequodspizza.com) - [2207 N. Clybourn Ave](#address)
 * [Santullo's](http://www.santullos.com) - [1943 W North Ave](#address)
 
 #### Rockford
@@ -268,6 +272,8 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Adrienne's Pizza Bar](http://www.adriennespizzabarnyc.com/) - [54 Stone St](#address)
 * [John's of Bleeker St](http://www.johnsbrickovenpizza.com/) - [278 Bleecker St](#address)
 * [Prince Street Pizza](http://www.yelp.com/biz/prince-st-pizza-new-york) - [27 Prince St](#address)
+* [Saluggi's](http://www.saluggis.com/) - [325 Church St](#address)
+
 
 #### Staten Island
 
@@ -357,7 +363,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### Austin
 
+* [40 North](http://www.40northpizza.com) - [1502 S 1st St](#address)
 * [The Austin Beer Garden Brewing Company](http://theabgb.com/) - [1305 W Oltorf](#address)
+* [The Backspace](http://thebackspace-austin.com) - [507 San Jacinto St](#address)
+* [Bufalina](http://www.bufalinapizza.com) - [1519 E Cesar Chavez](#address)
 * [East Side Pies](http://eastsidepies.com/) - [1401 Rosewood Ave](#address)
 * [Home Slice](https://www.homeslicepizza.com) - [1415 S Congress Ave](#address)
 * [Little Deli](http://www.littledeliandpizza.com/) - [7101 Woodrow Ave](#address)
@@ -429,6 +438,12 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Rossini](http://www.yelp.com/biz/rossini-paris-3) - [8 Rue Rossini](#address)
 
+### Switzerland
+
+#### Geneva
+
+* [Luigia](http://www.luigia.ch/) - [1209, Chemin de la Tourelle 2](#address)
+
 ### Germany
 
 #### Berlin
@@ -463,3 +478,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Southampton
 
 * [It's a Pizza Thing](https://www.facebook.com/apizzathing) - [38-40 Adelaide Rd](#address)
+
+#### Glasgow
+
+* [La Favorita](http://lafav.co.uk/glasgow/) - [23-25 Gibson Street](#address)
