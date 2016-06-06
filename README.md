@@ -123,6 +123,13 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Pequod's](http://pequodspizza.com) - [2207 N. Clybourn Ave](#address)
 * [Santullo's](http://www.santullos.com) - [1943 W North Ave](#address)
 
+#### Coal Valley
+* [Happy Joe's Pizza & Ice Cream](http://www.happyjoes.com) - [320 West 1st Ave](#address)
+
+#### Rock Island
+
+* [Harris Pizza](http://www.harrispizza.com) - [3903 14th Ave](#address)
+
 #### Rockford
 
 * [Toni's Pizza](http://www.tonispizzaandpasta.com/) - [457 N Milwaukee Ave](#address)
