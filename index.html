@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <style type="text/css">
+      #map-canvas { height:400px; max-height:400px; max-width:800px;}
+      #form { padding-top:500px, border:1px solid black; }
+    </style>
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places&sensor=false"></script>
+  </head>
+  <body>
+    <div id="map-canvas">
+    </div>
+    <script type='text/javascript' src='js/psQuery.js'></script>
+    <script type='text/javascript' src='js/map.js'></script>
+    <script type="text/javascript">
+      var input = document.getElementById('searchTextField');
+      var options = {
+        componentRestrictions: {country: 'us'}
+      };
+      autocomplete = new google.maps.places.Autocomplete(input, options);
+      </script>
+    <p> Source code hosted at <a href="https://github.com/ETNOL/Travel-Map">Github</a>
+  </body>
+</html>
