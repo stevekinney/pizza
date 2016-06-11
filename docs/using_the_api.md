@@ -105,7 +105,7 @@ Feel free to contribute and submit a PR.
 
 **SOME CURRENTLY NEEDED / DESIRED FEATURES:**
 
-- Some logic to make the API deployable 
+- Some logic to make the API deployable
 - A reliable 'near-me' endpoint `api/v1/properties/near-me`
   - for a user's lat/long return all locations nearby.
 
