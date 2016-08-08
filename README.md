@@ -300,6 +300,11 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 ### North Carolina
 
+#### Asheville
+
+* [Favilla's New York Pizza](http://www.favillasnypizza.com) - [1093 Patton Ave](#address)
+* [Standard Pizza Co.](http://www.standardpizzacoasheville.com) - [631 Haywood Rd](#address)
+
 #### Chapel Hill/Carrboro
 
 * [Alfredo's Pizza Villa](http://www.alfredospizzanc.com/) - [201 S Estes Dr](#address)
