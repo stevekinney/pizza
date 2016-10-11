@@ -354,6 +354,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### Philadelphia
 
+* [Blackbird Pizzeria](http://blackbirdpizzeria.com/) - [507 S 6th St](#address)
 * [Dock Street Brewery](http://www.dockstreetbeer.com/) - [701 South 50th Street](#address)
 * [Gennaro's Tomato Pie](https://www.facebook.com/GennarosTomatoPie) - [1429 Jackson St](#address)
 * [In Riva](http://www.in-riva.com/images/menuDINNER.pdf) - [4116 Ridge Ave](#address)
