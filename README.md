@@ -271,6 +271,8 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Brooklyn
 
 * [Forcella](http://forcellaeatery.com/williamsburg/) - [485 Lorimer St](#address)
+* [Franny's](http://frannysbrooklyn.com/) - [348 Flatbush Avenue](#address)
+* [Lucali](http://www.lucali.com/) - [575 Henry Street](#address)
 * [Luigi's Pizza](http://www.yelp.com/biz/luigi-pizzeria-brooklyn) - [686 5th Ave](#address)
 * [My Little Pizzeria](http://www.yelp.com/biz/my-little-pizzeria-brooklyn) - [114 Court St](#address)
 * [Paulie Gee's](http://pauliegee.com/) - [60 Greenpoint Ave](#address)
@@ -285,6 +287,8 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Adrienne's Pizza Bar](http://www.adriennespizzabarnyc.com/) - [54 Stone St](#address)
 * [John's of Bleeker St](http://www.johnsbrickovenpizza.com/) - [278 Bleecker St](#address)
+* [Lombardi's](http://www.firstpizza.com/) - [32 Spring St](#address)
+* [Motorino](http://www.motorinopizza.com/) - [349 East 12th St](#address)
 * [Prince Street Pizza](http://www.yelp.com/biz/prince-st-pizza-new-york) - [27 Prince St](#address)
 * [Saluggi's](http://www.saluggis.com/) - [325 Church St](#address)
 
