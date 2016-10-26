@@ -190,6 +190,8 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Pizzeria Libretto](http://pizzerialibretto.com/)
 * [Bitondo's Pizzeria](https://plus.google.com/111316627016040776065/about?gl=ca&hl=en)
+* [FBI Pizza](https://fbipizza.com)
+
 
 ## Whistler, Canada
 
