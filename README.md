@@ -443,6 +443,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Bitondo's Pizzeria](https://plus.google.com/111316627016040776065/about?gl=ca&hl=en) - [11 Clinton St](#address)
 * [Pizzeria Libretto](http://pizzerialibretto.com/) - [155 University Ave](#address)
+* [FBI Pizza](www.fbipizza.com) - [2336 Lake Shore Blvd W. Toronto, ON M8V 1B6 ](#address)
 
 #### Peterborough
 
