@@ -468,6 +468,12 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Luigia](http://www.luigia.ch/) - [1209, Chemin de la Tourelle 2](#address)
 
+### Spain
+
+#### Valencia
+
+* [Pizza Show](http://www.luigia.ch/) - [Av. del General Avilés, 61, 46035 València](#address)
+
 ### Germany
 
 #### Berlin
