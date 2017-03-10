@@ -34,6 +34,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Terun](http://terunpizza.com/) - [448 S. California Ave.](#address)
 
+#### Sacramento
+
+* [Pieces Pizza](https://www.yelp.com/biz/pieces-pizza-by-the-slice-sacramento/) - [1309 21st St](#address)
+
 #### San Diego
 
 * [Newport Pizza and Ale House](http://www.yelp.com/biz/newport-pizza-and-ale-house-san-diego) - [5050 Newport Ave](#address)
