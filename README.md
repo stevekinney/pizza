@@ -11,53 +11,31 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 ### California
 
-#### Berkeley
-
-* [The Cheese Board Collective](http://cheeseboardcollective.coop/) - [1504 Shattuck Ave](#address)
-* [Emilia's](http://emiliaspizzeria.com/) - [2995 Shattuck Ave](#address)
-
-#### Chico
-
-* [Celestino's](http://www.celestinosnypizza.com/) - [101 Salem Street](#address)
-
-#### Los Angeles
-
-* [Pizzanista](http://www.pizzanista.com/) - [2019 E 7th St](#address)
-
 #### Oakland
 
-* [Hi-Life](http://www.hilifeoakland.com) - [400 15th St](#address)
-* [Nicks](http://oaklandstylepizza.com/) - [6211 Shattuck Ave.](#address)
+* [Five10](http://www.five10-pizza.com) - [400 15th St](#address)
 * [Zachary's](http://zacharys.com/locations/oakland) - [5801 College Ave.](#address)
 
 #### Palo Alto
 
 * [Terun](http://terunpizza.com/) - [448 S. California Ave.](#address)
 
-#### Sacramento
-
-* [Pieces Pizza](https://www.yelp.com/biz/pieces-pizza-by-the-slice-sacramento/) - [1309 21st St](#address)
-
 #### San Diego
 
-* [Newport Pizza and Ale House](http://www.yelp.com/biz/newport-pizza-and-ale-house-san-diego) - [5050 Newport Ave](#address)
-* [Pizza Port](http://www.pizzaport.com) - [1956 Bacon St](#address)
 * [Pizzeria Luigi](http://www.pizzerialuigi.com/) - [2121 El Cajon Blvd.](#address)
-* [Sicilian Thing Pizza](http://www.sicilianthingpizza.com/) - [4046 30th St](#address)
+* [Pizza Port](http://www.pizzaport.com) - [1956 Bacon St](#address)
 
 #### San Francisco
 
 * [Golden Boy](http://www.goldenboypizza.com/) - [542 Green St](#address)
 * [Little Star](http://www.littlestarpizza.com/) - [846 Divisadero St](#address)
-* [Slice House](http://slicehouse2ndst.com/) - [680 2nd St.](#address)
-* [Tony’s Pizza Napoletana](http://tonyspizzanapoletana.com/) - [1570 Stockton St](#address)
 * [Una Pizza Napoletana](http://www.unapizza.com/) - [210 11th St](#address)
+* [Tony’s Pizza Napoletana](http://tonyspizzanapoletana.com/) - [1570 Stockton St](#address)
 
 #### Santa Monica
 
-* [Milo & Olive](http://www.miloandolive.com/) - [2723 Wilshire Blvd](#address)
-* [NY&C](http://www.nyandcpizza.com/home.html) - [1120 Wilshire Blvd](#address)
 * [Stella Barra](http://www.stellabarra.com/) - [2000 Main St](#address)
+* [NY&C](http://www.nyandcpizza.com/home.html) - [1120 Wilshire Blvd](#address)
 
 ### Colorado
 
@@ -68,54 +46,31 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Denver
 
 * [Lucky Pie](http://www.luckypiepizza.com/lodo/) - [1610 16th St](#address)
-* [Denver Pizza Company](http://www.denverpizzaco.com/) - [309 W 11th Ave](#address)
-* [Benny Blancos](http://www.yelp.com/biz/benny-blancos-denver) - [616 E 13th Ave](#address)
-* [Blue Pan Pizza](http://bluepandenver.com/) - [3930 W 32nd Ave](#address)
-* [Fat Sully's](http://www.fatsullys.com) - [3237 E Colfax Ave](#address)
-* [Grimaldi's Pizzeria](http://www.grimaldispizzeria.com/) - [500 16th Street, Unit 128](#address)
-* [Pizza Pedalr](http://www.pizzapedalr.com/) - [2907 Huron Street](#address)
-* [Cart Driver](http://cart-driver.com/) - [2500 Larimer Street](#address)
-
-#### Westminster
-* [The Garlic Knot](http://www.garlicknotpizza.com/) - [7727 W 92nd Ave](#address)
 
 ### Connecticut
 
 #### New Haven
 
-* [Bar](http://www.barnightclub.com/) - [254 Crown St](#address)
-* [Da Legna](http://dalegna.com/) - [858 State St](#address)
-* [Modern Apizza](http://www.modernapizza.com/) - [874 State St](#address)
 * [Pepe's](http://pepespizzeria.com/) - [157 Wooster St](#address)
+* [Modern Apizza](http://www.modernapizza.com/) - [874 State St](#address)
 * [Sally's Apizza](http://www.sallysapizza.com/) - [237 Wooster St](#address)
+* [Bar](http://www.barnightclub.com/) - [254 Crown St](#address)
 
 ### District of Columbia
 
 #### Washington
 
+* [Pete's New Haven Pizza](http://petesapizza.com/) - [1400 Irving St NW #103](#address)
 * [2 Amys](http://2amys.tripod.com/) - [3715 Macomb St NW](#address)
 * [Comet Ping Pong](http://www.cometpingpong.com/) - [5037 Connecticut Ave NW](#address)
 * [Matchbox Pizza](http://www.matchboxrestaurants.com/) - [713 H St NW](#address)
-* [Pete's New Haven Pizza](http://petesapizza.com/) - [1400 Irving St NW #103](#address)
-
-### Florida
-
-#### Gainesville
-
-* [Big Lou's](http://www.biglouspizzeria.com/) - [5 SE 2nd Ave](#address)
-* [Leonardo's](http://www.leonardosgainesville.com/) - [1245 W University Ave](#address)
-* [Satchel's](http://www.satchelspizza.com/) - [1800 NE 23rd Ave](#address)
-
-#### Orlando
-
-* [Lazy Moon](http://www.lazymoonpizza.com/) - [11551 University Blvd](#address)
 
 ### Georgia
 
 #### Atlanta
 
-* [Ammazza](http://ammazza.com/) - [591 Edgewood Ave SE](#address)
 * [Antico Pizza Napoletana](http://littleitalia.com/) - [1093 Hemphill Ave](#address)
+* [Ammazza](http://ammazza.com/) - [591 Edgewood Ave SE](#address)
 * [Double Zero](http://www.doublezeroatl.com/) - [5825 Roswell Road Northeast](#address)
 * [St. Angelo's](http://www.stangelos.com/) - [4686 S Atlanta Rd SE](#address)
 
@@ -125,15 +80,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Coalfire](http://coalfirechicago.com/menu/index.html) - [1321 W Grand Ave](#address)
 * [Piece](http://www.piecechicago.com/pizza.php) - [1927 W North Ave](#address)
-* [Pequod's](http://pequodspizza.com) - [2207 N. Clybourn Ave](#address)
 * [Santullo's](http://www.santullos.com) - [1943 W North Ave](#address)
-
-#### Coal Valley
-* [Happy Joe's Pizza & Ice Cream](http://www.happyjoes.com) - [320 West 1st Ave](#address)
-
-#### Rock Island
-
-* [Harris Pizza](http://www.harrispizza.com) - [3903 14th Ave](#address)
 
 #### Rockford
 
@@ -141,49 +88,30 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 ### Indiana
 
-#### Bloomington
-
-* [Mother Bear's](http://www.someguyspizza.com/) - [6235 Allisonville Rd](#address)
-* [Pizza X](http://www.pizzaxbloomington.com/) - [1791 E. 10th St](#address)
-
 #### Indianapolis
 
 * [Napolese](http://napolesepizzeria.com) - [30 S Meridian St](#address)
-* [Some Guys](http://www.someguyspizza.com/) - [6235 Allisonville Rd](#address)
-
-#### South Bend
-
-* [Barnaby's](http://www.barnabys-pizza.com/) - [713 E. Jefferson Blvd](#address)
-* [Bruno's](http://www.brunospizza.com/) - [2202 E Mishawaka Ave](#address)
 
 ### Massachusetts
 
 #### Boston
 
-* [Big Daddy's Pizza](http://bigdaddyspizza.biz/) - [436 Western Ave](#address)
+* [436 Western Ave](http://bigdaddyspizza.biz/) - [436 Western Ave](#address)
 * [Pizzeria Regina](http://www.pizzeriaregina.com/) - [226 Faneuil Hall Market Place](#address)
-* [Santarpio's Pizza](http://www.santarpiospizza.com/) - [111 Chelsea Street](#address)
-
-#### Cambridge
-
-* [Pinocchio's Pizza & Subs](http://www.pinocchiospizza.net/) - [74 Winthrop Street](#address)
 
 ### Michigan
 
 #### Detroit
 
 * [Supino Pizzeria](http://supinopizzeria.com/) - [2457 Russell St](#address)
-
-#### Holland
-
-* [Fricano's Too](http://www.fricanospizza.com/) - [174 S River Ave](#address)
+* [Pie Sci](https://www.facebook.com/piescipizza)
 
 ### Minnesota
 
 #### Saint Paul / Minneapolis
 
-* [Pizza Lucé](https://pizzaluce.com/) - [119 N 4th St](#address)
 * [Punch Neapolitan Pizza](http://www.punchpizza.com/) - [210 E Hennepin Ave](#address)
+* [Pizza Lucé](https://pizzaluce.com/) - [119 N 4th St](#address)
 
 ### Missouri
 
@@ -193,35 +121,25 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### St. Louis
 
-* [Dewey's Pizza](http://www.deweyspizza.com) - [559 N and South Rd](#address)
 * [Joe Boccardi's Ristorante](http://www.joeboccardis.com/) - [8556 Watson Rd](#address)
-* [Imo's Pizza](http://imospizza.com/) - [1828 Washington Ave](#address)
 * [Pi Pizzeria](http://pi-pizza.com) - [6144 Delmar Blvd](#address)
+* [Dewey's Pizza](http://www.deweyspizza.com) - [559 N and South Rd](#address)
+* [Imo's Pizza](http://imospizza.com/) - [1828 Washington Ave](#address)
 * [Randolfi's](https://twitter.com/randolfisstl) - [6665 Delmar](#address)
 
 ### Nebraska
 
-#### Lincoln
-
-* [YiaYia's](http://yiayiaspizza.com/) - [1423 O St](#address)
-
 #### Omaha
 
-* [Pitch Pizzeria](http://www.pitchpizzeria.com) - [5021 Underwood Ave](#address), [17808 Burke St](#address)
-
-### Nevada
-
-#### Henderson
-
-* [Settebello](http://settebello.net/) - [140 S Green Valley Pkwy](#address)
+* [Pitch Pizzeria](http://www.pitchpizzeria.com) - [5021 Underwood Ave](#address)
 
 ### New Hampshire
 
 #### Manchester
 
+* [Pizza Market](http://www.pizzamarket.net/) - [845 Hanover St](#address)
 * [Jimmy's House of Pizza](http://www.yelp.com/biz/jimmys-house-of-pizza-manchester) - [345 Kelley St](#address)
 * [Ollie's](http://www.yelp.com/biz/ollies-manchester) - [761 Mast Rd](#address)
-* [Pizza Market](http://www.pizzamarket.net/) - [845 Hanover St](#address)
 
 ### New Jersey
 
@@ -254,10 +172,6 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Pete & Elda's / Carmen's Pizzeria](http://www.peteandeldas.com/) - [96 Woodland Ave](#address)
 
-#### Manahawkin
-
-* [Anthony's Pizza](http://www.yelp.com/biz/anthonys-restaurant-and-pizzeria-manahawkin) - [857 Mill Creek Rd](#address)
-
 #### Woodbridge
 
 * [San Remo Pizza](http://www.sanremopizza.net/) - [87 Main St](#address)
@@ -274,14 +188,12 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### Brooklyn
 
-* [Forcella](http://forcellaeatery.com/williamsburg/) - [485 Lorimer St](#address)
-* [Franny's](http://frannysbrooklyn.com/) - [348 Flatbush Avenue](#address)
-* [Lucali](http://www.lucali.com/) - [575 Henry Street](#address)
 * [Luigi's Pizza](http://www.yelp.com/biz/luigi-pizzeria-brooklyn) - [686 5th Ave](#address)
-* [My Little Pizzeria](http://www.yelp.com/biz/my-little-pizzeria-brooklyn) - [114 Court St](#address)
 * [Paulie Gee's](http://pauliegee.com/) - [60 Greenpoint Ave](#address)
 * [Roberta's](http://www.robertaspizza.com/) - [261 Moore St](#address)
 * [Saraghina](http://www.saraghinabrooklyn.com) - [435 Halsey St](#address)
+* [My Little Pizzeria](http://www.yelp.com/biz/my-little-pizzeria-brooklyn) - [114 Court St](#address)
+* [Forcella](http://forcellaeatery.com/williamsburg/) - [485 Lorimer St](#address)
 
 #### Buffalo
 
@@ -291,60 +203,30 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Adrienne's Pizza Bar](http://www.adriennespizzabarnyc.com/) - [54 Stone St](#address)
 * [John's of Bleeker St](http://www.johnsbrickovenpizza.com/) - [278 Bleecker St](#address)
-* [Lombardi's](http://www.firstpizza.com/) - [32 Spring St](#address)
-* [Motorino](http://www.motorinopizza.com/) - [349 East 12th St](#address)
 * [Prince Street Pizza](http://www.yelp.com/biz/prince-st-pizza-new-york) - [27 Prince St](#address)
-* [Saluggi's](http://www.saluggis.com/) - [325 Church St](#address)
-
 
 #### Staten Island
 
 * [Joe and Pat's](http://www.yelp.com/biz/joe-and-pats-staten-island) - [1758 Victory Blvd](#address)
 
-#### Syracuse
-
-* [Patsy's Pizza](http://www.patsyspizza.net/) - [1205 Erie Boulevard W](#address)
-* [Varsity Pizza](http://www.yelp.com/biz/varsity-pizza-syracuse) - [802 S Crouse Ave](#address)
-
 ### North Carolina
-
-#### Asheville
-
-* [Favilla's New York Pizza](http://www.favillasnypizza.com) - [1093 Patton Ave](#address)
-* [Standard Pizza Co.](http://www.standardpizzacoasheville.com) - [631 Haywood Rd](#address)
 
 #### Chapel Hill/Carrboro
 
-* [Alfredo's Pizza Villa](http://www.alfredospizzanc.com/) - [201 S Estes Dr](#address)
 * [Amante](http://amantepizza.com) - [300 E Main St](#address)
+* [Alfredo's Pizza Villa](http://www.alfredospizzanc.com/) - [201 S Estes Dr](#address)
 
 #### Durham
 
 * [Pie Pushers](http://piepushers.com)
-* [Pizzeria Toro](http://www.pizzeriatoro.com) - [105 E Chapel Hill St](#address)
 * [Lilly's](http://lillyspizza.com) - [810 W Peabody St](#address)
+* [Pizzeria Toro](http://www.pizzeriatoro.com) - [105 E Chapel Hill St](#address)
 
 #### Raleigh
 
-* [Capital Creations](http://capitalcreations.com) - [1842 Wake Forest Rd](#address)
 * [Lilly's](http://lillyspizza.com) - [1813 Glenwood Ave](#address)
+* [Capital Creations](http://capitalcreations.com) - [1842 Wake Forest Rd](#address)
 * [Mellow Mushroom](http://mellowmushroom.com/store/raleigh) - [601 W Peace St](#address)
-
-### Ohio
-
-#### Columbus
-
-* [Emelio's](http://www.emelioscatering.com) - [574 Georgesville Rd](#address)
-
-#### Powell
-
-* [Brooklyn Pizza](http://www.brooklynpizzapowell.com) - [240 North Liberty St](#address)
-
-### Oklahoma
-
-#### Oklahoma City
-
-* [Empire Slice House](http://www.empireslicehouse.com/) - [1734 NW 16th St](#address)
 
 ### Oregon
 
@@ -355,20 +237,15 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Portland
 
 * [Apizza Scholls](http://apizzascholls.com/) - [4741 SE Hawthorne Blvd](#address)
-* [Ken's Artisan](http://kensartisan.com/) - [338 NW 21st Ave](#address)
 * [Pyro Pizza](http://pyropizzacart.com/) - [1204 SE Hawthorne Blvd](#address)
+* [Ken's Artisan](http://kensartisan.com/) - [338 NW 21st Ave](#address)
 
 ### Pennsylvania
 
 #### Philadelphia
 
-* [Blackbird Pizzeria](http://blackbirdpizzeria.com/) - [507 S 6th St](#address)
-* [Dock Street Brewery](http://www.dockstreetbeer.com/) - [701 South 50th Street](#address)
-* [Gennaro's Tomato Pie](https://www.facebook.com/GennarosTomatoPie) - [1429 Jackson St](#address)
 * [In Riva](http://www.in-riva.com/images/menuDINNER.pdf) - [4116 Ridge Ave](#address)
 * [Nomad Pizza Co](http://www.nomadpizzaco.com/) - [611 S 7th St](#address)
-* [Pizzeria Beddia](https://pizzeriabeddia.wordpress.com) - [115 E Girard Ave](#address)
-* [Tacconelli's](http://www.tacconellispizzeria.com) - [2604 E Somerset St](#address)
 
 #### Pittsburgh
 
@@ -376,54 +253,36 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### Pottsville
 
-* [Palermo Pizza & Restaurant](http://palermopizzarestaurant.com/) - [Kings Plaza Pottsville-Miner Hwy](#address)
 * [Roma Pizza](http://www.romapizzapottsville.com/) - [116 W Market St](#address)
-
+* [Palermo Pizza & Restaurant](http://palermopizzarestaurant.com/) - [Kings Plaza Pottsville-Miner Hwy](#address)
 
 ### Tennessee
 
 #### Nashville
 
-* [Desano Pizza Bakery](http://desanopizza.it/) - [115 16th Avenue](#address)
 * [Five Points Pizza](http://www.fivepointspizza.com/) - [1012 Woodland St](#address)
 
 ### Texas
 
 #### Austin
 
-* [40 North](http://www.40northpizza.com) - [1502 S 1st St](#address)
-* [The Austin Beer Garden Brewing Company](http://theabgb.com/) - [1305 W Oltorf](#address)
-* [The Backspace](http://thebackspace-austin.com) - [507 San Jacinto St](#address)
-* [Bufalina](http://www.bufalinapizza.com) - [1519 E Cesar Chavez](#address)
-* [East Side Pies](http://eastsidepies.com/) - [1401 Rosewood Ave](#address)
-* [Home Slice](https://www.homeslicepizza.com) - [1415 S Congress Ave](#address)
 * [Little Deli](http://www.littledeliandpizza.com/) - [7101 Woodrow Ave](#address)
+* [East Side Pies](http://eastsidepies.com/) - [1401 Rosewood Ave](#address)
 * [Via 313](http://www.via313.com) - [1111 E 6th St](#address)
-
-#### Houston
-
-* [Frank's Pizza](http://frankspizza.com) - [417 Travis St](#address)
+* [Home Slice](https://www.homeslicepizza.com) - [1415 S Congress Ave](#address)
 
 #### Longview
 
 * [Pizza King](http://www.yelp.com/biz/pizza-king-longview) - [1100 E Marshall Ave](#address)
 
-### Utah
-
-#### Salt Lake City
-
-* [Pie Hole](http://pieholeutah.com/index2.html) - [344 S State St](#address)
-
 ### Washington
 
 #### Seattle
 
-* [Belltown Pizza](http://belltownpizza.net/) - [2422 1st Ave](#address)
-* [Flying Squirrel](http://www.flyingsquirrelpizza.com/) - [4920 S. Genesee St](#address), [8310 5th Ave NE](#address), [5701 Airport Way S](#address)
-* [Humble Pie](http://humblepieseattle.com/) - [525 Rainier Avenue South](#address)
-* [Pagliacci Pizza](http://www.pagliacci.com/) - [719 Aurora Ave N](#address)
-* [Serious Pie](http://seriouspieseattle.com/) - [316 Virginia St](#address)
 * [Via Tribunali](http://viatribunali.com/) - [913 E Pike St](#address)
+* [Belltown Pizza](http://belltownpizza.net/) - [2422 1st Ave](#address)
+* [Serious Pie](http://seriouspieseattle.com/) - [316 Virginia St](#address)
+* [Pagliacci Pizza](http://www.pagliacci.com/) - [719 Aurora Ave N](#address)
 
 ### Wisconsin
 
@@ -445,8 +304,8 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### Toronto
 
-* [Bitondo's Pizzeria](https://plus.google.com/111316627016040776065/about?gl=ca&hl=en) - [11 Clinton St](#address)
 * [Pizzeria Libretto](http://pizzerialibretto.com/) - [155 University Ave](#address)
+* [Bitondo's Pizzeria](https://plus.google.com/111316627016040776065/about?gl=ca&hl=en) - [11 Clinton St](#address)
 
 #### Peterborough
 
@@ -470,23 +329,11 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Rossini](http://www.yelp.com/biz/rossini-paris-3) - [8 Rue Rossini](#address)
 
-### Switzerland
-
-#### Geneva
-
-* [Luigia](http://www.luigia.ch/) - [1209, Chemin de la Tourelle 2](#address)
-
 ### Germany
 
 #### Berlin
 
 * [Trattoria Toscana](http://www.toscana-tempelhof.de/) - [Sredzkistraße 49](#address)
-
-### Malta
-
-#### Valletta
-
-* [Vecchia Taranto](http://www.tripadvisor.com/Restaurant_Review-g190328-d6674945-Reviews-Pizzeria_Trattoria_Vecchia_Taranto-Valletta_Island_of_Malta.html) - [279 Saint Paul Street](#address)
 
 ### Sweden
 
@@ -504,13 +351,9 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### London
 
-* [Pizza Pilgrims](http://pizzapilgrims.co.uk/) - [11 Dean St](#address)
 * [Princi](http://www.princi.com/) - [135 Wardour St](#address)
+* [Pizza Pilgrims](http://pizzapilgrims.co.uk/) - [11 Dean St](#address)
 
 #### Southampton
 
-* [It's a Pizza Thing](https://www.facebook.com/apizzathing) - [38-40 Adelaide Rd](#address)
-
-#### Glasgow
-
-* [La Favorita](http://lafav.co.uk/glasgow/) - [23-25 Gibson Street](#address)
+* [It's a Pizza Thing](https://www.facebook.com/apizzathing)
