@@ -59,11 +59,11 @@ class API < Sinatra::Base
   def return_search_results
     @pizzerias = geojson_data['features']
     @pizzerias.select do |location|
-          params.all? do |key, value|
-            location['properties'][key].casecmp(value.downcase).zero?
-          end
-        end
+      params.all? do |key, value|
+        location['properties'][key].casecmp(value.downcase).zero?
+      end
+    end
   end
 end
 
-VALID_PROPERTY_PARAMS = %w(city pizzeria website address marker-size marker-color marker-symbol).freeze
+VALID_PROPERTY_PARAMS = %w[city pizzeria website address marker-size marker-color marker-symbol].freeze
