@@ -30,7 +30,7 @@ class API < Sinatra::Base
         id = params[:id].to_i - 1
         json = geojson_data['features'][id].to_json
         if json == 'null'
-          fail Sinatra::NotFound
+          raise Sinatra::NotFound
         else
           json
         end
@@ -58,20 +58,12 @@ class API < Sinatra::Base
 
   def return_search_results
     @pizzerias = geojson_data['features']
-    locations = @pizzerias.select do |location|
-      params.all? do |key, value|
-        location['properties'][key].downcase == value.downcase
-      end
-    end
+    @pizzerias.select do |location|
+          params.all? do |key, value|
+            location['properties'][key].casecmp(value.downcase).zero?
+          end
+        end
   end
 end
 
-VALID_PROPERTY_PARAMS = [
-  'city',
-  'pizzeria',
-  'website',
-  'address',
-  'marker-size',
-  'marker-color',
-  'marker-symbol'
-]
+VALID_PROPERTY_PARAMS = %w(city pizzeria website address marker-size marker-color marker-symbol).freeze
