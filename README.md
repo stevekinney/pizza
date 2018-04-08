@@ -382,6 +382,11 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 ### Tennessee
 
+#### Knoxville 
+
+* [Hard Knox Pizzeria](https://hardknoxpizza.com/) - [4437 Kingston Pike](#address)
+
+
 #### Nashville
 
 * [Desano Pizza Bakery](http://desanopizza.it/) - [115 16th Avenue](#address)
