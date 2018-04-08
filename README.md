@@ -471,6 +471,12 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [La Pizza Cresci](http://maison-cresci.fr/en) - [3 Quai Saint-Pierre](#address)
 
+### Japan
+
+#### Tokyo
+
+* [Pizza Strada](http://www.pizzastrada.jp) - [NS Azabu Juban Bldg. 1F, 3-6-2, Azabu](#address)
+
 #### Paris
 
 * [Rossini](http://www.yelp.com/biz/rossini-paris-3) - [8 Rue Rossini](#address)
