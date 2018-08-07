@@ -346,6 +346,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Empire Slice House](http://www.empireslicehouse.com/) - [1734 NW 16th St](#address)
 
+#### Tulsa
+
+* [Andolini's](https://www.andopizza.com/menu/) - [1552 E 15th St](#address)
+
 ### Oregon
 
 #### Eugene
@@ -382,7 +386,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 ### Tennessee
 
-#### Knoxville 
+#### Knoxville
 
 * [Hard Knox Pizzeria](https://hardknoxpizza.com/) - [4437 Kingston Pike](#address)
 
