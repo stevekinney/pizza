@@ -494,6 +494,18 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Trattoria Toscana](http://www.toscana-tempelhof.de/) - [Sredzkistraße 49](#address)
 
+### Italy
+
+#### Naples
+
+* [50 Kalò](http://www.50kalò.it/) - [Piazza Sannazaro 201/c](#address)
+* [Di Matteo](http://www.pizzeriadimatteo.com/) - [Via dei Tribunali 94](#address)
+* [Gino e Toto Sorbillo](http://www.sorbillo.it/) - [Via dei Tribunali 32](#address)
+* [L'Antica Pizzeria da Michele](http://www.damichele.net/) - [Via Cesare Sersale 1](#address)
+* [La Masardona](https://www.facebook.com/lamasardona/?ref=bookmarks) - [Via Giulio Cesare Capaccio 27](#address)
+* [Starita](https://www.pizzeriestarita.it/) - [Via Materdei 27/28](#address)
+
+
 ### Malta
 
 #### Valletta
