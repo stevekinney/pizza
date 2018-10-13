@@ -500,6 +500,12 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Vecchia Taranto](http://www.tripadvisor.com/Restaurant_Review-g190328-d6674945-Reviews-Pizzeria_Trattoria_Vecchia_Taranto-Valletta_Island_of_Malta.html) - [279 Saint Paul Street](#address)
 
+### Poland
+
+#### Warsaw
+
+* [Mąka i Woda](https://www.facebook.com/MakaiWoda) - [Chmielna 13a](#address)
+
 ### Sweden
 
 #### Onsala
