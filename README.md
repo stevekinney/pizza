@@ -493,6 +493,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Berlin
 
 * [Trattoria Toscana](http://www.toscana-tempelhof.de/) - [Sredzkistraße 49](#address)
+* [Pomodorino](https://www.pomodorino.de/pomodorino) - [Straßmannstraße 21](#address)
 
 ### Italy
 
