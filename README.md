@@ -472,15 +472,16 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [La Pizza Cresci](http://maison-cresci.fr/en) - [3 Quai Saint-Pierre](#address)
 
+#### Paris
+
+* [Bijou](https://bijou-paris.fr/) - [10 Rue Dancourt](#address)
+* [Rossini](http://www.yelp.com/biz/rossini-paris-3) - [8 Rue Rossini](#address)
+
 ### Japan
 
 #### Tokyo
 
 * [Pizza Strada](http://www.pizzastrada.jp) - [NS Azabu Juban Bldg. 1F, 3-6-2, Azabu](#address)
-
-#### Paris
-
-* [Rossini](http://www.yelp.com/biz/rossini-paris-3) - [8 Rue Rossini](#address)
 
 ### Switzerland
 
@@ -497,6 +498,16 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 ### Italy
 
+#### Caserta
+
+* [I Masanielli](https://www.facebook.com/masaniellisasamartucci/) - [Via Antonio Vivaldi 23](#address)
+* [La Loggetta](https://www.facebook.com/PIZZERIALALOGGETTALAB) - [Piazza Matteotti 40](#address)
+* [Tre Farine](http://www.trefarine.it/) - [Via Cesare Battisti 46](#address)
+
+#### Milan
+
+* [Olio a Crudo](https://www.sorbillo.it/pizzeria-olio-a-crudo) - [Via Montevideo 4](#address)
+
 #### Naples
 
 * [50 Kalò](http://www.50kalò.it/) - [Piazza Sannazaro 201/c](#address)
@@ -506,6 +517,22 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [La Masardona](https://www.facebook.com/lamasardona/?ref=bookmarks) - [Via Giulio Cesare Capaccio 27](#address)
 * [Starita](https://www.pizzeriestarita.it/) - [Via Materdei 27/28](#address)
 
+#### Pozzuoli
+
+* [10 Diego Vitagliano](http://www.10pizzeria.it/) - [Via Nuova Agnano 1](#address)
+* [Biga280](http://www.biga280.it/) - [Via Campi Flegrei 13](#address)
+
+#### Rome
+
+* [Angelo Pezzella](http://www.angelopezzella.it/) - [Via Appia Nuova 1095](#address)
+* [Berberè](https://www.berberepizza.it/en/) - [Via Mantova 5](#address)
+* [I Quintili](https://www.facebook.com/Iquintili1/) - [Via S. Biagio Platani 320](#address)
+* [Piccolo Buco](https://www.pizzeriapiccolobuco.it/) - [Via del Lavatore 91](#address)
+
+#### Salerno
+
+* [Capri](http://www.capripizzeriasalerno.it/) - [Via Torrione 36](#address)
+* [Resilienza](https://www.facebook.com/PizzeriaResilienza/) - [Via Andrea Sabatini 4](#address)
 
 ### Malta
 
