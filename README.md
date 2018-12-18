@@ -480,6 +480,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 #### Paris
 
+* [Bijou](https://bijou-paris.fr/) - [10 Rue Dancourt](#address)
 * [Rossini](http://www.yelp.com/biz/rossini-paris-3) - [8 Rue Rossini](#address)
 
 ### Switzerland
