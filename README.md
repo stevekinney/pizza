@@ -472,16 +472,16 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [La Pizza Cresci](http://maison-cresci.fr/en) - [3 Quai Saint-Pierre](#address)
 
+#### Paris
+
+* [Bijou](https://bijou-paris.fr/) - [10 Rue Dancourt](#address)
+* [Rossini](http://www.yelp.com/biz/rossini-paris-3) - [8 Rue Rossini](#address)
+
 ### Japan
 
 #### Tokyo
 
 * [Pizza Strada](http://www.pizzastrada.jp) - [NS Azabu Juban Bldg. 1F, 3-6-2, Azabu](#address)
-
-#### Paris
-
-* [Bijou](https://bijou-paris.fr/) - [10 Rue Dancourt](#address)
-* [Rossini](http://www.yelp.com/biz/rossini-paris-3) - [8 Rue Rossini](#address)
 
 ### Switzerland
 
