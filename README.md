@@ -65,6 +65,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Pizzeria Locale](http://localeboulder.com/) - [1730 Pearl St](#address)
 
+#### Colorado Springs
+
+* [Slice 420](http://slice420.com/) - [2501 W Colorado Ave #108](#address)
+
 #### Denver
 
 * [Lucky Pie](http://www.luckypiepizza.com/lodo/) - [1610 16th St](#address)
