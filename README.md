@@ -23,6 +23,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Los Angeles
 
 * [Pizzanista](http://www.pizzanista.com/) - [2019 E 7th St](#address)
+* [Pizzeria Mozza](http://ww.pizzeriamozza.com) - [641 North Highland Avenue](#address)
 
 #### Oakland
 
@@ -127,6 +128,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Piece](http://www.piecechicago.com/pizza.php) - [1927 W North Ave](#address)
 * [Pequod's](http://pequodspizza.com) - [2207 N. Clybourn Ave](#address)
 * [Santullo's](http://www.santullos.com) - [1943 W North Ave](#address)
+* [Spacca Napoli]( http://www.spaccanapolipizzeria.com) - [1769 West Sunnyside Avenue, Uptown](#address)
 
 #### Coal Valley
 * [Happy Joe's Pizza & Ice Cream](http://www.happyjoes.com) - [320 West 1st Ave](#address)
@@ -183,6 +185,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Saint Paul / Minneapolis
 
 * [Pizza Lucé](https://pizzaluce.com/) - [119 N 4th St](#address)
+* [Pizzeria Lola](http://www.pizzerialola.com) - [5557 South Xerxes Avenue](#address)
 * [Punch Neapolitan Pizza](http://www.punchpizza.com/) - [210 E Hennepin Ave](#address)
 
 ### Missouri
@@ -466,6 +469,12 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 * [Zio’s Pizzeria](ttps://www.yelp.ca/biz/zios-pizzeria-moncton) - [214 Church Street](#address)
 
+### Denmark
+
+### Copenhagen
+
+* [Bæst]( http://baest.dk/) - [Guldbergsgade 29](#address)
+
 ### France
 
 #### Cannes
@@ -498,6 +507,10 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
 ### Italy
 
+#### Caiazzo
+
+* [Pepe In Grani](http://www.pepeingrani.it/) - [Vicolo San Giovanni Battista](#address)
+
 #### Caserta
 
 * [I Masanielli](https://www.facebook.com/masaniellisasamartucci/) - [Via Antonio Vivaldi 23](#address)
@@ -513,8 +526,9 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [50 Kalò](http://www.50kalò.it/) - [Piazza Sannazaro 201/c](#address)
 * [Di Matteo](http://www.pizzeriadimatteo.com/) - [Via dei Tribunali 94](#address)
 * [Gino e Toto Sorbillo](http://www.sorbillo.it/) - [Via dei Tribunali 32](#address)
-* [L'Antica Pizzeria da Michele](http://www.damichele.net/) - [Via Cesare Sersale 1](#address)
+* [L'Antica Pizzeria da Michele](http://www.damichele.net/) - [Via Cesare Sersale 1-3](#address)
 * [La Masardona](https://www.facebook.com/lamasardona/?ref=bookmarks) - [Via Giulio Cesare Capaccio 27](#address)
+* [La Notizia](http://www.pizzarialanotizia.com) - [Via Michelangelo da Caravaggio, 53](#address)
 * [Starita](https://www.pizzeriestarita.it/) - [Via Materdei 27/28](#address)
 
 #### Pozzuoli
@@ -527,12 +541,26 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 * [Angelo Pezzella](http://www.angelopezzella.it/) - [Via Appia Nuova 1095](#address)
 * [Berberè](https://www.berberepizza.it/en/) - [Via Mantova 5](#address)
 * [I Quintili](https://www.facebook.com/Iquintili1/) - [Via S. Biagio Platani 320](#address)
+* [La Gatta Mangiona](http://www.lagattamangiona.com/) - [Via Federico Ozanam 30-32, Monteverde Vecchio](#address)
 * [Piccolo Buco](https://www.pizzeriapiccolobuco.it/) - [Via del Lavatore 91](#address)
+* [Pizzarium]() - [Via della Meloria, 43](#address)
 
 #### Salerno
 
 * [Capri](http://www.capripizzeriasalerno.it/) - [Via Torrione 36](#address)
 * [Resilienza](https://www.facebook.com/PizzeriaResilienza/) - [Via Andrea Sabatini 4](#address)
+
+#### San Bonifacio
+
+* [I Tigli](http://www.pizzeriaitigli.it) - [Via Camporosolo 11](#address)
+
+#### San Giorgio a Cremano
+
+* [Pizzeria Fratelli Salvo](http://www.salvopizzaioli.it) - [Largo Arso, 10-16](#address)
+
+#### San Martino Buon Albergo
+
+* [Saporè](http://www.saporeverona.it/) - [Via Ponte 55A](#address)
 
 ### Malta
 
@@ -579,3 +607,9 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### Glasgow
 
 * [La Favorita](http://lafav.co.uk/glasgow/) - [23-25 Gibson Street](#address)
+
+### Brazil
+
+#### São Paulo
+
+* [Braz](http://www.brazpizzaria.com.br) - [Rue Graúna 125, Moema](#address)
