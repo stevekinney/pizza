@@ -4,7 +4,7 @@ GEM
     backports (3.8.0)
     coderay (1.1.1)
     geocoder (1.4.4)
-    json (2.1.0)
+    json (2.3.0)
     method_source (0.8.2)
     mini_portile2 (2.2.0)
     multi_json (1.12.1)
