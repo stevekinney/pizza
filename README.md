@@ -617,3 +617,7 @@ collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 #### São Paulo
 
 * [Braz](http://www.brazpizzaria.com.br) - [Rue Graúna 125, Moema](#address)
+
+#### Campinas
+
+* [Pizza Uno](http://www.pizzauno.com.br/) - [Rua Monsenhor Jerônimo Baggio, 491]
