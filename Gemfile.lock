@@ -1,43 +1,40 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    coderay (1.1.1)
-    geocoder (1.6.1)
-    json (2.1.0)
-    method_source (0.8.2)
-
-    mini_portile2 (2.8.0)
-    multi_json (1.12.1)
-    mustermann (1.0.0)
-    nokogiri (1.13.9)
-      mini_portile2 (~> 2.8.0)
+    coderay (1.1.3)
+    geocoder (1.8.1)
+    json (2.6.3)
+    method_source (1.0.0)
+    multi_json (1.15.0)
+    mustermann (3.0.0)
+      ruby2_keywords (~> 0.0.1)
+    nokogiri (1.15.2-arm64-darwin)
       racc (~> 1.4)
-    pry (0.10.4)
-      coderay (~> 1.1.0)
-      method_source (~> 0.8.1)
-      slop (~> 3.4)
-    rack (2.2.6.2)
-    rack-protection (3.0.5)
+    pry (0.14.2)
+      coderay (~> 1.1)
+      method_source (~> 1.0)
+    racc (1.6.2)
+    rack (2.2.7)
+    rack-protection (3.0.6)
       rack
-    redcarpet (3.4.0)
+    redcarpet (3.6.0)
     ruby2_keywords (0.0.5)
-    sinatra (3.0.5)
+    sinatra (3.0.6)
       mustermann (~> 3.0)
       rack (~> 2.2, >= 2.2.4)
-      rack-protection (= 3.0.5)
+      rack-protection (= 3.0.6)
       tilt (~> 2.0)
-    sinatra-contrib (3.0.5)
+    sinatra-contrib (3.0.6)
       multi_json
       mustermann (~> 3.0)
-      rack-protection (= 3.0.5)
-      sinatra (= 3.0.5)
+      rack-protection (= 3.0.6)
+      sinatra (= 3.0.6)
       tilt (~> 2.0)
     sinatra-cross_origin (0.4.0)
-    slop (3.6.0)
-    tilt (2.0.11)
+    tilt (2.1.0)
 
 PLATFORMS
-  ruby
+  arm64-darwin-22
 
 DEPENDENCIES
   geocoder
@@ -50,4 +47,4 @@ DEPENDENCIES
   sinatra-cross_origin
 
 BUNDLED WITH
-   1.15.3
+   2.4.12
