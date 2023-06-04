@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     coderay (1.1.1)
-    geocoder (1.4.4)
+    geocoder (1.6.1)
     json (2.1.0)
     method_source (0.8.2)
     mini_portile2 (2.2.0)
