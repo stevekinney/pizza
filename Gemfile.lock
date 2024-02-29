@@ -10,11 +10,13 @@ GEM
       ruby2_keywords (~> 0.0.1)
     nokogiri (1.15.2-arm64-darwin)
       racc (~> 1.4)
+    nokogiri (1.15.2-x86_64-linux)
+      racc (~> 1.4)
     pry (0.14.2)
       coderay (~> 1.1)
       method_source (~> 1.0)
     racc (1.6.2)
-    rack (2.2.7)
+    rack (2.2.8.1)
     rack-protection (3.0.6)
       rack
     redcarpet (3.6.0)
@@ -35,6 +37,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
+  x86_64-linux
 
 DEPENDENCIES
   geocoder
